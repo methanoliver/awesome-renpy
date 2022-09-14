@@ -91,6 +91,7 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 
 These are select articles from PyTom's Patreon, most of which which explain a certain feature in more detail than the manual does.
 
++ [Under the Hood: Interactions](https://patreon.renpy.org/interaction.html) - the only explanation of what an "interaction" is.
 + [Adding Google Analytics to Your Visual Novel](https://patreon.renpy.org/analytics.html)
 + [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
 + [Automatic speech bubbles](https://patreon.renpy.org/speech-bubbles.html) - A simpler take on speech bubbles than the Speech Bubbles framework.
@@ -98,6 +99,7 @@ These are select articles from PyTom's Patreon, most of which which explain a ce
 + [Timed Choice Menus](https://patreon.renpy.org/timed-choice-menus.html) - How to make a choice menu that can time out.
 + [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
 + [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it currently does.
++ [Ren’Py Developer Update - May 2022](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus) - How to make drop-down menus.
 
 ### Shaders
 
