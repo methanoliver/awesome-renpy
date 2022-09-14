@@ -22,7 +22,9 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 
 ## Tutorials
 
-RenPy's own documentation is somewhat scattered, at times incomplete, and often, insufficiently detailed.
+[RenPy's own documentation](https://www.renpy.org/doc/html/index.html) is somewhat scattered, at times incomplete, and often, insufficiently detailed.
+
+That is, of course, no excuse not to read it, but if that was not helpful:
 
 + [Lezcave](https://www.lezcave.com/renpy-tutorials/) - A set of basic tutorials
 + [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
@@ -39,7 +41,7 @@ Pieces of code big enough to be called libraries.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
 + [Speech Bubbles](https://github.com/RenpyRemix/speech-bubbles) - A unique look presenting novel text as speech bubbles.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
-+ [AliceOS](https://github.com/ProjectAliceDev/aliceos) - What is this I don't even.
++ [Candella](https://github.com/UnscriptedVN/candella) - Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system.
 + [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
 + [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 + [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
@@ -132,6 +134,8 @@ These are software unto themselves.
 + [unrpyc](https://github.com/CensoredUsername/unrpyc) - The `*.rpyc` file decompiler.
 + [unrpa](https://github.com/Lattyware/unrpa) - The most famous RPA archive extractor.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
++ [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
++ [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
 
 ### End-user tools
 
