@@ -9,6 +9,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 + [Tutorials](#tutorials)
 + [Frameworks](#frameworks)
 + [Cookbook](#cookbook)
+  + [Snippets](#snippets)
   + [Patreon articles](#patreon-articles)
   + [Shaders](#shaders)
   + [Code examples](#code-examples)
@@ -54,7 +55,11 @@ Pieces of code big enough to be called libraries.
 
 ## Cookbook
 
-Most useful RenPy code comes in the form of code snippets, examples, and other small pieces, rather than a well-packaged library. As such, many of these links link to Gists, forum posts, and other such locations wherein a given code snippet is presented in context. Not all of these are confirmed to work in current versions of RenPy. Presented in no particular order.
+Most useful RenPy code comes in the form of code snippets, examples, and other small pieces, rather than a well-packaged library. As such, many of these links link to Gists, forum posts, and other such locations wherein a given code snippet is presented in context.
+
+### Snippets
+
+Not all of these are confirmed to work in current versions of RenPy. Presented in no particular order.
 
 + [Discord rich presence](https://arianeb.com/2019/07/19/adding-discord-rich-presence-to-renpy-games/) - currently out of date, but can presumably be made to work.
 + [X-Ray effect](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128) - This turns the mouse pointer into a device to see inside things.
