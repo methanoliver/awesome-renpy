@@ -9,6 +9,9 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 + [Tutorials](#tutorials)
 + [Frameworks](#frameworks)
 + [Cookbook](#cookbook)
+  + [Patreon articles](#patreon-articles)
+  + [Shaders](#shaders)
+  + [Code examples](#code-examples)
 + [Tools](#tools)
   + [In-engine developer tools](#in-engine-developer-tools)
   + [Standalone developer tools](#standalone-developer-tools)
@@ -99,7 +102,7 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 + [RGB Split](https://github.com/AgentAlpha81/RGB-Split) - Chromatic aberration shader.
 + [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
 + [Round corners shader](https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa) - Very neat, but why does it only work on `Solid()` for me, I have no idea.
-+ 
+
 
 ### Code examples
 
