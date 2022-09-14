@@ -1,18 +1,21 @@
 # Awesome RenPy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome goodies for [RenPy](https://renpy.org/) visual novel engine. Originally this started as me dumping my bookmark folder, but since this accrued some interest, I decided to make this more of a thing. Things that were obsolete at the time of writing -- which happens relatively often in the RenPy land -- did not make it into this list unless they were otherwise significant or were the only example of their kind.
+A curated list of awesome goodies for [RenPy](https://renpy.org/) visual novel engine. Originally this started as me dumping my bookmark folder, but since this accrued some interest, I decided to make this more of a thing. Things that were known to be obsolete at the time of writing -- which happens relatively often in the RenPy land -- did not make it into this list unless they were otherwise significant or were the only example of their kind.
 
 Who am I kidding, this will languish in obscurity like every other attempt to produce an index of these things...
 
 ## Contents
 
 + [Tutorials](#tutorials)
++ [Project templates](#project-templates)
 + [Frameworks](#frameworks)
 + [Cookbook](#cookbook)
   + [Snippets](#snippets)
+  + [Minigames](#minigames)
   + [Patreon articles](#patreon-articles)
   + [Shaders](#shaders)
   + [Code examples](#code-examples)
+  + [Other](#other)
 + [Tools](#tools)
   + [In-engine developer tools](#in-engine-developer-tools)
   + [Standalone developer tools](#standalone-developer-tools)
@@ -31,6 +34,13 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 + [Lezcave](https://www.lezcave.com/renpy-tutorials/) - A set of basic tutorials
 + [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
 
+## Project templates
+
+Templates to start off a new project containing commonly requested features a stock RenPy new project does not offer.
+
++ [All-in-one GUI Template](https://tofurocks.itch.io/renpy-gui-template)
++ [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) - An advanced starter project template.
+
 ## Frameworks
 
 Pieces of code big enough to be called libraries.
@@ -44,14 +54,15 @@ Pieces of code big enough to be called libraries.
 + [Speech Bubbles](https://github.com/RenpyRemix/speech-bubbles) - A unique look presenting novel text as speech bubbles.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
 + [Candella](https://github.com/UnscriptedVN/candella) - Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system.
-+ [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
 + [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 + [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
 + [Kinetic Text Tags](https://github.com/SoDaRa/Kinetic-Text-Tags) - Text that shakes, waves, bounces, scatters, etc.
 + [GalleryPlus](https://github.com/cheonbyeol/RenPy-GalleryPlus) - Extends the functionality of RenPy's built-in Gallery class. Allows looping images, pages, navigation buttons.
 + [renpy-gallery-inject](https://github.com/Numerlor/renpy-gallery-inject) - Self contained gallery screen, and code to allow the screen and functionality to be patched into existing games without changing their code in any way.
 + [Renpy Auto Highlight](https://wattson.itch.io/renpy-auto-highlight) - A library to automatically highlight the currently speaking character.
-+ [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) - An advanced starter project template.
++ [Ren'Py Chat Log](https://github.com/JimTheCactus/chatlogging) -- Library for displaying scrolling chat logs.
++ [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
++ [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
 
 ## Cookbook
 
@@ -87,6 +98,15 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Differential image loader](https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c) - Given two different sprites of the same character in the same pose, produce image files which use one of them as a base, store only the pixels that are different from that base for all others, and automatically make a `layeredimage` out of them.
 + [Two-column NVL mode](https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab) - How to have your NVL screen display two columns of text, filling one after the other in a semi-automatic fashion.
 
+### Minigames
+
+Self-contained minigames can occasionally be found. Some assembly is usually required.
+
++ [Simon Says](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=40295#p428028)
++ [Rhythm game](https://github.com/RuolinZheng08/renpy-rhythm) - Dance Dance Revolution style, well documented.
++ [Rock Paper Scissors](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361) - A RPS game meant as a tutorial how to program one.
++ [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
+
 ### Patreon articles
 
 These are select articles from PyTom's Patreon, most of which which explain a certain feature in more detail than the manual does.
@@ -113,13 +133,16 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 + [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
 + [Round corners shader](https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa) - Very neat, but why does it only work on `Solid()` for me, I have no idea.
 
-
 ### Code examples
 
 Occasionally, entire games are published as open source. Whenever they contain anything useful as example code, they go in this section.
 
 + [Cute demon crashers](https://github.com/robotlolita/cute-demon-crashers) - interesting examples of functional programming, well commented, even if dated.
 + [Soaria scripty bits for Ren'py](https://github.com/kayateia/soaria-renpy) - "These are a few scripts with common code pulled from our own VN work that might be useful to others."
+
+### Other
+
++ [1080p wipes](https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37628#p407567) A collection of 1080p-sized ImageDissolve transition images.
 
 ## Tools
 
@@ -130,6 +153,8 @@ These are meant to be built into the game at least during development, and thus 
 + [Ren'Edit](https://minute.itch.io/renedit) - A beta-tester support tool to easily acquire corrections and comments.
 + [ActionEditor](https://github.com/kyouryuukunn/renpy-ActionEditor3) - A powerful director tool for manipulating [camera](https://www.renpy.org/doc/html/model.html) and viewing the results.
 + [MouseFinderTool](https://github.com/CharlieFuu69/RenPy_MouseFinderTool) - A set of developer tools to pinpoint mouse position of things. Documentation in Spanish only.
++ [RVRE](https://github.com/picobyte/RVRE) - The editor provides a means to proofread your visual novel while running it and without leaving.
++ [Caption Tool](https://npckc.itch.io/caption-tool-for-renpy) - A tool to add image and sound captions for accessibility purposes.
 
 ### Standalone developer tools
 
