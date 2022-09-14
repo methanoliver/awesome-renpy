@@ -106,6 +106,12 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Affection points](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=22817#p287294) An example of implementing the basic notion of affection points.
 + [A timer that would work and after leaving the project](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47774#p475564) - Example code to account for time that passed while the game wasn't running.
 + [Continue button](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=48154#p477769) - Multiple methods to create a 'Continue' main menu button that would load the most recent save game.
++ [Buns with sound in renpy](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54324#p507536) - Answers to multiple questions on how to do something with sound in RenPy.
++ [Scroll any background](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54333#p507598) - by adding a mirrored copy to the side and repeating.
++ [One-screen visual novel](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=37055#p402373) - that is, how to disable the entire game menu and jump straight into the body of the novel.
++ [How to add Google Ads(Admob) to Renpy](https://www.youtube.com/watch?v=oUhcXlzc2a4) - What it says on the tin. (YouTube video)
++ [How to do a cloud animation with RenPy](https://traumendes-madchen.com/blog/?p=1395) - A primer on animated backgrounds.
++ [Main Menu with a Video Background](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47193#p472755) - This gets asked on average once a week.
 
 ### Minigames
 
