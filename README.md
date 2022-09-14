@@ -96,6 +96,7 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Subscript and superscript text tags](https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48)
 + [Smallcaps text tag](https://gist.github.com/methanoliver/166c18caa224fa15ead6dca95cccbb05)
 + [Rain effect](https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5) - not particle, but rather texture based.
++ [How to make rain](https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=7423#p99296) - describes a simpler, but less convincing technique to make rain.
 + [Window-fixed CTC](https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4) - how to position a CTC relative to a window, rather than fixed on the screen or relative to the last printed line.
 + [Differential image loader](https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c) - Given two different sprites of the same character in the same pose, produce image files which use one of them as a base, store only the pixels that are different from that base for all others, and automatically make a `layeredimage` out of them.
 + [Two-column NVL mode](https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab) - How to have your NVL screen display two columns of text, filling one after the other in a semi-automatic fashion.
@@ -221,6 +222,7 @@ Most of these are only useful to produce background images, as getting the detai
 
 + [ArtBreeder](https://www.artbreeder.com/)
 + [DreamStutio](https://beta.dreamstudio.ai/)
++ [SteosVoice](https://cybervoice.io/en/) - High quality speech synthesis useful for voicing visual novels.
 
 ### Asset editing tools
 
