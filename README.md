@@ -17,8 +17,9 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
   + [Standalone developer tools](#standalone-developer-tools)
   + [End-user tools](#end-user-tools)
 + [Assets](#assets)
- + [Asset libraries](#asset-libraries)
- + [Asset editing tools](#asset-editing-tools)
+  + [Asset libraries](#asset-libraries)
+  + [Asset generators](#asset-generators)
+  + [Asset editing tools](#asset-editing-tools)
 
 ## Tutorials
 
