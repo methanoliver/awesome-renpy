@@ -24,6 +24,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
   + [Asset libraries](#asset-libraries)
   + [Asset generators](#asset-generators)
   + [Asset editing tools](#asset-editing-tools)
++ [Support](#support)
 
 ## Tutorials
 
@@ -241,6 +242,15 @@ Most of these are only useful to produce background images, as getting the detai
 + [IMGOnline.com.ua](https://www.imgonline.com.ua/eng/) - a collection of online texture processing tools.
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
 + [FotoSkether](https://fotosketcher.com/) - The better way of making photos look like painting. Windows-only, runs under Wine.
+
+## Support
+
+You can find a community of RenPy users in your language, provided it's one of:
+
++ [Discord English](https://discord.gg/6ckxWYm)
++ [Discord Spanish](https://discord.gg/KWDk6se)
++ [Discord French](https://discord.gg/SZN5uxeMf5)
++ [Discord Russian](https://discord.gg/umzUwffsXk)
 
 ## Other Awesome Lists
 
