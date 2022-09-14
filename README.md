@@ -1,6 +1,6 @@
 # Awesome RenPy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome goodies for [RenPy](https://renpy.org/) visual novel engine. Originally this started as me dumping my bookmark folder, but since this accrued some interest, I decided to make this more of a thing.
+A curated list of awesome goodies for [RenPy](https://renpy.org/) visual novel engine. Originally this started as me dumping my bookmark folder, but since this accrued some interest, I decided to make this more of a thing. Things that were obsolete at the time of writing -- which happens relatively often in the RenPy land -- did not make it into this list unless they were otherwise significant or were the only example of their kind.
 
 Who am I kidding, this will languish in obscurity like every other attempt to produce an index of these things...
 
@@ -8,7 +8,14 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 
 + [Tutorials](#tutorials)
 + [Frameworks](#frameworks)
++ [Cookbook](#cookbook)
++ [Tools](#tools)
+  + [In-engine developer tools](#in-engine-developer-tools)
+  + [Standalone developer tools](#standalone-developer-tools)
+  + [End-user tools](#end-user-tools)
 + [Assets](#assets)
+ + [Asset libraries](#asset-libraries)
+ + [Asset editing tools](#asset-editing-tools)
 
 ## Tutorials
 
@@ -19,7 +26,7 @@ RenPy's own documentation is somewhat scattered, at times incomplete, and often,
 
 ## Frameworks
 
-Pieces of code big enough to be called full-blown libraries.
+Pieces of code big enough to be called libraries.
 
 + [Lezinventory](https://www.lezcave.com/lezinventory-framework/) - General purpose inventory system.
 + [Pink Engine](https://pink-productions.itch.io/pink-engine) - Tiled map framework.
@@ -31,10 +38,79 @@ Pieces of code big enough to be called full-blown libraries.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
 + [AliceOS](https://github.com/ProjectAliceDev/aliceos) - What is this I don't even.
 + [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
++ [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
++ [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
++ [Kinetic Text Tags](https://github.com/SoDaRa/Kinetic-Text-Tags) - Text that shakes, waves, bounces, scatters, etc.
++ [GalleryPlus](https://github.com/cheonbyeol/RenPy-GalleryPlus) - Extends the functionality of RenPy's built-in Gallery class. Allows looping images, pages, navigation buttons.
++ [renpy-gallery-inject](https://github.com/Numerlor/renpy-gallery-inject) - Self contained gallery screen, and code to allow the screen and functionality to be patched into existing games without changing their code in any way.
++ [Renpy Auto Highlight](https://wattson.itch.io/renpy-auto-highlight) - A library to automatically highlight the currently speaking character.
++ [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) - An advanced starter project template.
+
+## Cookbook
+
+Most useful RenPy code comes in the form of code snippets, examples, and other small pieces, rather than a well-packaged library. As such, many of these links link to Gists, forum posts, and other such locations wherein a given code snippet is presented in context. Not all of these are confirmed to work in current versions of RenPy. Presented in no particular order.
+
++ [Discord rich presence](https://arianeb.com/2019/07/19/adding-discord-rich-presence-to-renpy-games/) - currently out of date, but can presumably be made to work.
++ [X-Ray effect](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128) - This turns the mouse pointer into a device to see inside things.
++ [Font aliases](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64907&sid=623f90c9cd1dc91c1ae65cb8c0851a78) - how to avoid typing `{font=thisisalongfontname.ttf}` every time.
++ [ChromaGlitch](https://github.com/Gouvernathor/renpy-ChromaGlitch) - Glitch effect.
++ [SWHolo](https://github.com/Gouvernathor/renpy-SWHolo) - Star Wars hologram effect.
++ [Pronouns class](https://github.com/Gouvernathor/renpy-PronounsClass) - A class to handle character pronouns.
++ [Analog clock](https://github.com/williamd1k0/renpy-analog-clock) - A clock displayable.
++ [Projection starfield](https://github.com/jsfehler/renpy-projection-starfield) - Particle-based starfield.
++ [Free-hand draw](https://github.com/jsfehler/renpy-freehand-draw) - Draw on a canvas inside a Ren'Py game.
++ [Radar chart](https://github.com/jsfehler/renpy-radarchart) - Displayable for plotting data onto a radar chart.
++ [Parallax layer](https://gist.github.com/midgethetree/b449be114f21974ed21b3fbf3653433f) - Layer parallax based on mouse position.
++ [Experiments in Ren'Py Heresy](https://gist.github.com/kobaltcore/2d2d913e513d25f02f4800e41fbbee8d) - Several undocumented text effects.
++ [Scrollbutton](https://gist.github.com/midgethetree/b210ddadfb07e85873022fde0202f646) - A button to scroll a viewport.
++ [MyShow](https://gist.github.com/Enerccio/1e24664f2d6705d30d1f4cce2cced902) - An example of overriding the built-in `show` statement to potentially add functionality, does so by directly editing the script in memory after loading.
++ [screen_choice](https://gist.github.com/dossy/cbb7b7ed18a292e4d9c51c8d63a15c69) - How to apply transitions to the current scene behind a Ren'Py choice menu.
++ [Dust](https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f) - a particle effect. Documentation in Russian.
++ [shuffle_menu](https://gist.github.com/renpytom/5934f9fb850d4bcf01ffe7834e241778) - How to get a `menu` statement to shuffle items before displaying them.
++ [afk.rpy](https://gist.github.com/tserber98/b0d177c4dffa38e4719695b13c87e55f) - How to detect that a player didn't attend the game for a certain period.
++ Three alternate takes on how to give the player a preview of text printed with a certain given CPS: [by Oliver](https://gist.github.com/methanoliver/bbb026b2c6daeb9b7aae508314e30cfd), [by Lezalith](https://gist.github.com/Lezalith/f6ea469f10f10d21f53c2c5f592cd12f), [by Feniks](https://gist.github.com/shawna-p/3a12772369af03b85b25196275412868)
++ [Subscript and superscript text tags](https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48)
++ [Smallcaps text tag](https://gist.github.com/methanoliver/166c18caa224fa15ead6dca95cccbb05)
++ [Rain effect](https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5) - not particle, but rather texture based.
++ [Window-fixed CTC](https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4) - how to position a CTC relative to a window, rather than fixed on the screen or relative to the last printed line.
++ [Differential image loader](https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c) - Given two different sprites of the same character in the same pose, produce image files which use one of them as a base, store only the pixels that are different from that base for all others, and automatically make a `layeredimage` out of them.
++ [Two-column NVL mode](https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab) - How to have your NVL screen display two columns of text, filling one after the other in a semi-automatic fashion.
+
+### Patreon articles
+
+These are select articles from PyTom's Patreon, most of which which explain a certain feature in more detail than the manual does.
+
++ [Adding Google Analytics to Your Visual Novel](https://patreon.renpy.org/analytics.html)
++ [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
++ [Automatic speech bubbles](https://patreon.renpy.org/speech-bubbles.html) - A simpler take on speech bubbles than the Speech Bubbles framework.
++ [Multiple Dialogue Blocks](https://patreon.renpy.org/multiple-dialogue.html)
++ [Timed Choice Menus](https://patreon.renpy.org/timed-choice-menus.html) - How to make a choice menu that can time out.
++ [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
++ [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it currently does.
+
+### Shaders
+
+Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
+
++ [RenPy Shader Collection](https://github.com/valery-iwanofu/renpy-shader-collection) - waves, color picker.
++ [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) - A better documented wave shader.
++ [Renpy-GLSL-Test](https://github.com/WatercressStudios/Renpy-GLSL-Test) - Experimental setup, contains a packaged "whirl" transform.
++ [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
++ [RGB Split](https://github.com/AgentAlpha81/RGB-Split) - Chromatic aberration shader.
++ [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
++ [Round corners shader](https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa) - Very neat, but why does it only work on `Solid()` for me, I have no idea.
++ 
+
+### Code examples
+
+Occasionally, entire games are published as open source. Whenever they contain anything useful as example code, they go in this section.
+
++ [Cute demon crashers](https://github.com/robotlolita/cute-demon-crashers) - interesting examples of functional programming, well commented, even if dated.
++ [Soaria scripty bits for Ren'py](https://github.com/kayateia/soaria-renpy) - "These are a few scripts with common code pulled from our own VN work that might be useful to others."
 
 ## Tools
 
-### Developer tools
+### In-engine developer tools
 
 These are meant to be built into the game at least during development, and thus are a cross between libraries and standalone tools.
 
