@@ -32,7 +32,9 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 That is, of course, no excuse not to read it, but if that was not helpful:
 
 + [Lezcave](https://www.lezcave.com/renpy-tutorials/) - A set of basic tutorials
++ [VNCoder](https://vncoder.dev/) - Another set of basic tutorials.
 + [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
++ [RenPy for Dummies](https://renpyfordummies.blogspot.com/) - A Russian-language blog full of cookbook examples.
 
 ## Project templates
 
@@ -96,10 +98,13 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Subscript and superscript text tags](https://gist.github.com/methanoliver/fb2ef18de4c23fadbb23b13fa3d10d48)
 + [Smallcaps text tag](https://gist.github.com/methanoliver/166c18caa224fa15ead6dca95cccbb05)
 + [Rain effect](https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5) - not particle, but rather texture based.
-+ [How to make rain](https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=7423#p99296) - describes a simpler, but less convincing technique to make rain.
++ [Simple rain effect](https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37489#p406150) - describes a simpler, but less convincing technique to make rain.
 + [Window-fixed CTC](https://gist.github.com/methanoliver/7671cbcabe46bcc8a0f757ba195bb1a4) - how to position a CTC relative to a window, rather than fixed on the screen or relative to the last printed line.
 + [Differential image loader](https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c) - Given two different sprites of the same character in the same pose, produce image files which use one of them as a base, store only the pixels that are different from that base for all others, and automatically make a `layeredimage` out of them.
 + [Two-column NVL mode](https://gist.github.com/methanoliver/cb6ae08d432d9395cff65975733599ab) - How to have your NVL screen display two columns of text, filling one after the other in a semi-automatic fashion.
++ [Affection points](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=22817#p287294) An example of implementing the basic notion of affection points.
++ [A timer that would work and after leaving the project](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47774#p475564) - Example code to account for time that passed while the game wasn't running.
++ [Continue button](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=48154#p477769) - Multiple methods to create a 'Continue' main menu button that would load the most recent save game.
 
 ### Minigames
 
@@ -195,6 +200,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Soundimage](https://soundimage.org/) - Specially aimed at game developers.
 + [FreePD](https://freepd.com/) - Music
 + [FontSquirrel](https://www.fontsquirrel.com/) - Free TTF/OTF fonts.
++ [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
 
 ### Asset generators
 
