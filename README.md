@@ -170,8 +170,10 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 
 #### Character sprite generators
 
-+ [Sutemo's Character Creator](https://emily2.itch.io/sutemo)
-+ [Mannequin](https://ar14.itch.io/mannequin) - free and paid versions
++ [Sutemo's Character Creator](https://emily2.itch.io/sutemo) - online only.
++ [Mannequin](https://ar14.itch.io/mannequin) - free and paid versions, multiplatform.
++ [Manga Maker ComiPo](https://store.steampowered.com/app/262490/Manga_Maker_Comipo/) - has been used to produce sprites for at least one novel available on Steam. Windows only.
++ [VRoid Studio](https://store.steampowered.com/app/1486350/VRoid_Studio_v1130/) - Avatar generator meant for VTubers, can in a pinch be used to manufacture sprite images. Crossplatform, free as in beer.
 
 #### Other generators
 
