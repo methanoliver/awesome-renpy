@@ -72,6 +72,7 @@ Pieces of code big enough to be called libraries.
 + [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
 + [Dating Sim Engine](https://github.com/renpy/dse) - The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.
 + [Sheepstorm Battle Framework](https://circle-cosine.itch.io/sheepstorm-battle-framework) - RPG style battle engine.
++ [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
 
 ## Cookbook
 
