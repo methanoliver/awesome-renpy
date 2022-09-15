@@ -7,12 +7,12 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 ## Contents
 
 + [Tutorials](#tutorials)
+  + [Patreon articles](#patreon-articles)
 + [Project templates](#project-templates)
 + [Frameworks](#frameworks)
 + [Cookbook](#cookbook)
   + [Snippets](#snippets)
   + [Minigames](#minigames)
-  + [Patreon articles](#patreon-articles)
   + [Shaders](#shaders)
   + [Code examples](#code-examples)
   + [Other](#other)
@@ -40,6 +40,20 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 + [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
 + [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
 + [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
+
+### Patreon articles
+
+These are select articles from [PyTom's Patreon](https://patreon.renpy.org/), most of which which explain a certain feature in more detail than the manual does and provide example code.
+
++ [Under the Hood: Interactions](https://patreon.renpy.org/interaction.html) - the only explanation of what an "interaction" is.
++ [Adding Google Analytics to Your Visual Novel](https://patreon.renpy.org/analytics.html)
++ [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
++ [Automatic speech bubbles](https://patreon.renpy.org/speech-bubbles.html) - A simpler take on speech bubbles than the Speech Bubbles framework.
++ [Multiple Dialogue Blocks](https://patreon.renpy.org/multiple-dialogue.html)
++ [Timed Choice Menus](https://patreon.renpy.org/timed-choice-menus.html) - How to make a choice menu that can time out.
++ [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
++ [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it currently does.
++ [Ren’Py Developer Update - May 2022](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus) - How to make drop-down menus.
 
 ## Project templates
 
@@ -135,27 +149,13 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 + [Rock Paper Scissors](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361) - A RPS game meant as a tutorial how to program one.
 + [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
 
-### Patreon articles
-
-These are select articles from PyTom's Patreon, most of which which explain a certain feature in more detail than the manual does.
-
-+ [Under the Hood: Interactions](https://patreon.renpy.org/interaction.html) - the only explanation of what an "interaction" is.
-+ [Adding Google Analytics to Your Visual Novel](https://patreon.renpy.org/analytics.html)
-+ [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
-+ [Automatic speech bubbles](https://patreon.renpy.org/speech-bubbles.html) - A simpler take on speech bubbles than the Speech Bubbles framework.
-+ [Multiple Dialogue Blocks](https://patreon.renpy.org/multiple-dialogue.html)
-+ [Timed Choice Menus](https://patreon.renpy.org/timed-choice-menus.html) - How to make a choice menu that can time out.
-+ [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
-+ [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it currently does.
-+ [Ren’Py Developer Update - May 2022](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus) - How to make drop-down menus.
-
 ### Shaders
 
 Shaders are the most arcane part of RenPy, because they require branching into [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), while accounting for RenPy intricacies. Some of the effects achieved thereby are very useful, however.
 
 + [RenPy Shader Collection](https://github.com/valery-iwanofu/renpy-shader-collection) - waves, color picker.
 + [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) - A better documented wave shader.
-+ [Renpy-GLSL-Test](https://github.com/WatercressStudios/Renpy-GLSL-Test) - Experimental setup, contains a packaged "whirl" transform.
++ [Renpy-GLSL-Test](https://github.com/WatercressStudios/Renpy-GLSL-Test) - Experimental setup, contains a packaged "whirl" transition.
 + [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 + [RGB Split](https://github.com/AgentAlpha81/RGB-Split) - Chromatic aberration shader.
 + [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
@@ -169,7 +169,7 @@ Occasionally, entire games are published as open source. Whenever they contain a
 + [Cute demon crashers](https://github.com/robotlolita/cute-demon-crashers) - interesting examples of functional programming, well commented, even if dated.
 + [Soaria scripty bits for Ren'py](https://github.com/kayateia/soaria-renpy) - "These are a few scripts with common code pulled from our own VN work that might be useful to others."
 + [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
-+ [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming in back from 6.99 era, and is of historical and educational interest.
++ [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
 
 ### Other
 
@@ -179,10 +179,10 @@ Occasionally, entire games are published as open source. Whenever they contain a
 
 ### In-engine developer tools
 
-These are meant to be built into the game at least during development, and thus are a cross between libraries and standalone tools.
+These are meant to be built into the project at least during development, and thus are a cross between libraries and standalone tools.
 
 + [Ren'Edit](https://minute.itch.io/renedit) - A beta-tester support tool to easily acquire corrections and comments.
-+ [ActionEditor](https://github.com/kyouryuukunn/renpy-ActionEditor3) - A powerful director tool for manipulating [camera](https://www.renpy.org/doc/html/model.html) and viewing the results.
++ [ActionEditor](https://github.com/kyouryuukunn/renpy-ActionEditor3) - A powerful director tool for manipulating [camera](https://www.renpy.org/doc/html/model.html), viewing the results and generating code to produce the interactively-defined effects.
 + [MouseFinderTool](https://github.com/CharlieFuu69/RenPy_MouseFinderTool) - A set of developer tools to pinpoint mouse position of things. Documentation in Spanish only.
 + [RVRE](https://github.com/picobyte/RVRE) - The editor provides a means to proofread your visual novel while running it and without leaving.
 + [Caption Tool](https://npckc.itch.io/caption-tool-for-renpy) - A tool to add image and sound captions for accessibility purposes.
@@ -215,7 +215,8 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 
 ### Asset libraries
 
-+ [Itch.io](https://itch.io/game-assets/genre-visual-novel) - Visual novel specific assets available on Itch.io.
++ [Itch.io](https://itch.io/game-assets/genre-visual-novel) - Visual novel specific assets available on Itch.io, both free and paid.
++ [DLSite](https://www.dlsite.com/home/tool) - A large variety of game assets for visual novels from Japanese artists, all of them paid.
 + [Pixabay](https://pixabay.com/) - a variety of Creative Commons images, videos, music and sound effects.
 + [Free Music Archive](https://freemusicarchive.org/) - Royalty-free and CC music.
 + [OpenGameArt](https://opengameart.org/) - assets for a variety of game types, many useful for visual novels.
@@ -234,6 +235,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [ChipTone](https://sfbgames.itch.io/chiptone) - online generator.
 + [FxTone](https://raylibtech.itch.io/rfxgen) - online generator.
 + [LabChirp](https://labbed.itch.io/labchirp)
++ [SteosVoice](https://cybervoice.io/en/) - High quality AI-based speech synthesis useful for generating voice for visual novels.
 
 #### Character sprite generators
 
@@ -253,7 +255,6 @@ Most of these are only useful to produce background images, as getting the detai
 
 + [ArtBreeder](https://www.artbreeder.com/)
 + [DreamStutio](https://beta.dreamstudio.ai/)
-+ [SteosVoice](https://cybervoice.io/en/) - High quality speech synthesis useful for voicing visual novels.
 
 ### Asset editing tools
 
