@@ -36,6 +36,10 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 + [VNCoder](https://vncoder.dev/) - Another set of basic tutorials.
 + [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
 + [RenPy for Dummies](https://renpyfordummies.blogspot.com/) - A Russian-language blog full of cookbook examples.
++ [Working with RenPy](https://videlais.com/2018/06/28/working-with-renpy-part-1-downloading-and-configuring/) - Almost a book, walking through much of the basics.
++ [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
++ [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
++ [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
 
 ## Project templates
 
@@ -110,8 +114,14 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Scroll any background](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=54333#p507598) - by adding a mirrored copy to the side and repeating.
 + [One-screen visual novel](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=37055#p402373) - that is, how to disable the entire game menu and jump straight into the body of the novel.
 + [How to add Google Ads(Admob) to Renpy](https://www.youtube.com/watch?v=oUhcXlzc2a4) - What it says on the tin. (YouTube video)
++ [Yandex Mobile ads in RenPy](https://github.com/valery-iwanofu/rapt-yandex-ads) - What it says on the tin, but in Russian.
 + [How to do a cloud animation with RenPy](https://traumendes-madchen.com/blog/?p=1395) - A primer on animated backgrounds.
 + [Main Menu with a Video Background](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47193#p472755) - This gets asked on average once a week.
++ [Expanding Mobile Functionality With Pyobjus/Pyjnius](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=46091#p467178) - Invoking Android API when on Android.
++ [BPM in Ren'Py - Timing animations to your musics tempo](https://sleepyagents.blogspot.com/2016/09/bpm-in-renpy-timing-animations-to-your.html) - Describes the techniques to manually time an animation to music tempo.
++ [Making a Separate Content Patch](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=45448#p463349) - How to make an optional content patch.
++ [Noir-Style Shadow/Lighting Effects](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=49140#p483366) - fun with AlphaMask.
++ [Button "PRESSED" state](https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57848&sid=95776df5d873ef265bcf05244d317495) - How to detect that an on-screen button is being held down, rather than just clicked.
 
 ### Minigames
 
@@ -147,6 +157,7 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 + [RGB Split](https://github.com/AgentAlpha81/RGB-Split) - Chromatic aberration shader.
 + [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
 + [Round corners shader](https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa) - Very neat, but why does it only work on `Solid()` for me, I have no idea.
++ [Shader](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65248) - Several animated image-generating shaders ported from Shadertoy.
 
 ### Code examples
 
@@ -177,6 +188,7 @@ These are software unto themselves.
 
 + [renpy2linux](https://github.com/Shizmob/renpy2linux) - A script to convert Ren'Py releases to Windows, OSX and Linux-compatible ones, when the only thing you have is one of the three. Requires Linux or OSX to work.
 + [renpy-graphviz](https://github.com/EwenQuim/renpy-graphviz) - Draws a flowchart of a RenPy project based on jumps, calls and labels. Has an online version.
++ [Twine to Ren'Py tool](https://ludowoods.itch.io/twine-to-renpy-tool) - A tool to port a [Twine](https://twinery.org/) project to RenPy. Cross-platform, requires Python 2.7 on platforms other than Windows.
 + [renkit](https://github.com/kobaltcore/renkit) - A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.
 + [renpydeskgen](https://github.com/Polymehr/renpydeskgen) - Shell script to generate Linux `*.desktop` files for RenPy games.
 + [unrpyc](https://github.com/CensoredUsername/unrpyc) - The `*.rpyc` file decompiler.
