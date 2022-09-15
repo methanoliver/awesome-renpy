@@ -243,6 +243,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Mannequin](https://ar14.itch.io/mannequin) - free and paid versions, multiplatform.
 + [Manga Maker ComiPo](https://store.steampowered.com/app/262490/Manga_Maker_Comipo/) - has been used to produce sprites for at least one novel available on Steam. Windows only.
 + [VRoid Studio](https://store.steampowered.com/app/1486350/VRoid_Studio_v1130/) - Avatar generator meant for VTubers, can in a pinch be used to manufacture sprite images. Crossplatform, free as in beer.
++ [Charat Rouge](https://charat.me/en/rouge/) / [Charat Blanc](https://charat.me/en/blanc/) - online character sprite generator, limited to portraits, license prohibits commercial use of the result.
 
 #### Other generators
 
@@ -253,16 +254,21 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 
 #### AI-powered generators
 
-Most of these are only useful to produce background images, as getting the detail and specificity required of anything else out of them is impossible. But free backgrounds are free backgrounds.
+Most of these are only useful to produce background images, as getting the detail and specificity required of anything else out of them is impractical. But free backgrounds are free backgrounds.
 
 + [ArtBreeder](https://www.artbreeder.com/)
 + [DreamStutio](https://beta.dreamstudio.ai/)
++ [WaifuLabs](https://waifulabs.com/) - limited usefulness, good for inspiration.
++ [craiyon](https://www.craiyon.com/)
++ [NeuralBlender](https://neuralblender.com/create-art)
 
 ### Asset editing tools
 
 + [Krita](https://krita.org/) - The best open source paint program.
   + [Generate Ren'Py Scripting](https://github.com/SeanHRN/generate-renpy-scripting) - A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the [krita-batch-exporter](https://github.com/GDQuest/krita-batch-exporter).
 + [GIMP](https://www.gimp.org/) - The more arcane and ancient, but likewise powerful open source paint program.
++ [Inkscape](https://inkscape.org/) - best open source vector image editor.
++ [Boxy SVG](https://boxy-svg.com/) - free as in beer online-also vector image editor, cloud services require payment.
 + [Audacity](https://www.audacityteam.org/) - Open source audio editor.
 + [Ocenaudio](https://www.ocenaudio.com/en/) - Less powerful, but more convenient, free (as in beer) audio editor.
 + [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering.
