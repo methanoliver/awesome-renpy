@@ -70,6 +70,7 @@ Pieces of code big enough to be called libraries.
 + [Ren'Py Chat Log](https://github.com/JimTheCactus/chatlogging) -- Library for displaying scrolling chat logs.
 + [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
 + [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
++ [RenpyPhoneSMS](https://github.com/israelrbb/RenpyPhoneSMS) - And another one.
 + [Dating Sim Engine](https://github.com/renpy/dse) - The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.
 + [Sheepstorm Battle Framework](https://circle-cosine.itch.io/sheepstorm-battle-framework) - RPG style battle engine.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
@@ -167,6 +168,8 @@ Occasionally, entire games are published as open source. Whenever they contain a
 
 + [Cute demon crashers](https://github.com/robotlolita/cute-demon-crashers) - interesting examples of functional programming, well commented, even if dated.
 + [Soaria scripty bits for Ren'py](https://github.com/kayateia/soaria-renpy) - "These are a few scripts with common code pulled from our own VN work that might be useful to others."
++ [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
++ [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming in back from 6.99 era, and is of historical and educational interest.
 
 ### Other
 
@@ -198,6 +201,7 @@ These are software unto themselves.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
 + [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
 + [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
++ [articy2renpy](https://github.com/TheSchnappi/articy2renpy) - A converter for [articy:draft](https://www.articy.com/en/) JSON exports to Ren'Py *.rpy script files.
 
 ### End-user tools
 
