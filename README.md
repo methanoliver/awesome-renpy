@@ -258,7 +258,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 Most of these are only useful to produce background images, as getting the detail and specificity required of anything else out of them is impractical. But free backgrounds are free backgrounds.
 
 + [ArtBreeder](https://www.artbreeder.com/)
-+ [DreamStutio](https://beta.dreamstudio.ai/)
++ [DreamStudio](https://beta.dreamstudio.ai/)
 + [WaifuLabs](https://waifulabs.com/) - limited usefulness, good for inspiration.
 + [craiyon](https://www.craiyon.com/)
 + [NeuralBlender](https://neuralblender.com/create-art)
