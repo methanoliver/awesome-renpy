@@ -248,6 +248,8 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 
 + [TextureLab](https://njbrown.itch.io/texturelab) - Procedural texture generator.
 + [Procgen Arcana](https://watabou.github.io/) - A collection of generators intended primarily for tabletop roleplaying which produce useful maps.
++ [Celestia](https://celestia.space/) - Produce *correct* images of the night sky at a given point on Earth (or in space) and given time. Open source and cross platform.
++ [Space Engine](https://store.steampowered.com/app/314650/SpaceEngine/) - A more powerful commercial competitor to Celestia.
 
 #### AI-powered generators
 
