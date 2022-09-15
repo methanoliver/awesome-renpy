@@ -244,6 +244,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Manga Maker ComiPo](https://store.steampowered.com/app/262490/Manga_Maker_Comipo/) - has been used to produce sprites for at least one novel available on Steam. Windows only.
 + [VRoid Studio](https://store.steampowered.com/app/1486350/VRoid_Studio_v1130/) - Avatar generator meant for VTubers, can in a pinch be used to manufacture sprite images. Crossplatform, free as in beer.
 + [Charat Rouge](https://charat.me/en/rouge/) / [Charat Blanc](https://charat.me/en/blanc/) - online character sprite generator, limited to portraits, license prohibits commercial use of the result.
++ [Stella Character Generator](https://visustella.itch.io/stella-character-generator) - paid, Windows only.
 
 #### Other generators
 
