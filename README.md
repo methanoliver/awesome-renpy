@@ -173,7 +173,7 @@ Occasionally, entire games are published as open source. Whenever they contain a
 
 ### Other
 
-+ [1080p wipes](https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37628#p407567) A collection of 1080p-sized ImageDissolve transition images.
++ [1080p wipes](https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37628#p407567) - A collection of 1080p-sized ImageDissolve transition images, neither quite code nor quite an image by itself.
 
 ## Tools
 
