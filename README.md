@@ -277,6 +277,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [WaifuLabs](https://waifulabs.com/) - limited usefulness, good for inspiration.
 + [craiyon](https://www.craiyon.com/)
 + [NeuralBlender](https://neuralblender.com/create-art)
++ [VanceAI](https://vanceai.com/) - A number of image processing tools that includes interesting photo-to-sketch implementations.
 
 ### Asset editing tools
 
