@@ -90,6 +90,8 @@ Pieces of code big enough to be called libraries.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
 + [
 Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
++ [Ren'Py Universal Player](https://github.com/GanstaKingofSA/RenPy-Universal-Player) - An enhanced music room for Ren'Py projects that allows users to play tracks outside the game's story along with sideloaded songs.
++ [Cardgame Framework](https://github.com/renpy/cardgame) - What it says on the tin. Ancient code, but still works well in current RenPy.
 
 ## Cookbook
 
@@ -103,6 +105,7 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [X-Ray effect](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128) - This turns the mouse pointer into a device to see inside things.
 + [Font aliases](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64907&sid=623f90c9cd1dc91c1ae65cb8c0851a78) - how to avoid typing `{font=thisisalongfontname.ttf}` every time.
 + [ChromaGlitch](https://github.com/Gouvernathor/renpy-ChromaGlitch) - Glitch effect.
++ [RenPyGlitch](https://github.com/NyashniyVladya/RenPyGlitchs) - A different implementation of a glitch effect. Documentation in Russian.
 + [SWHolo](https://github.com/Gouvernathor/renpy-SWHolo) - Star Wars hologram effect.
 + [Pronouns class](https://github.com/Gouvernathor/renpy-PronounsClass) - A class to handle character pronouns.
 + [Analog clock](https://github.com/williamd1k0/renpy-analog-clock) - A clock displayable.
@@ -142,6 +145,7 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Button "PRESSED" state](https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57848&sid=95776df5d873ef265bcf05244d317495) - How to detect that an on-screen button is being held down, rather than just clicked.
 + [Ren-Py-Free-to-Use-Falling-Leaves](https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves) - Particle-based falling leaves, complete with assets.
 + [Ren-Py-Free-to-Use-Moving-Clouds](https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds) - Particle-based moving clouds, complete with assets.
++ [Ren'Py Lovense Boilerplate](https://github.com/lolabray/Renpy-lovense-boilerplate) - Code examples for controlling Lovense vibrating devices from RenPy.
 
 ### Minigames
 
@@ -150,6 +154,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 + [Simon Says](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=40295#p428028)
 + [Rhythm game](https://github.com/RuolinZheng08/renpy-rhythm) - Dance Dance Revolution style, well documented.
 + [Rock Paper Scissors](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361) - A RPS game meant as a tutorial how to program one.
++ [renpy-go](https://github.com/limniris1/renpy-go) - [Go](https://en.wikipedia.org/wiki/Go_(game)) in RenPy.
 + [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
 
 ### Shaders
@@ -173,6 +178,7 @@ Occasionally, entire games are published as open source. Whenever they contain a
 + [Soaria scripty bits for Ren'py](https://github.com/kayateia/soaria-renpy) - "These are a few scripts with common code pulled from our own VN work that might be useful to others."
 + [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
 + [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
++ [DW Klondike Solitaire](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire) - A complete Solitaire in RenPy, good as an example of using the Card Game Framework.
 
 ### Other
 
@@ -201,16 +207,22 @@ These are software unto themselves.
 + [renpydeskgen](https://github.com/Polymehr/renpydeskgen) - Shell script to generate Linux `*.desktop` files for RenPy games.
 + [unrpyc](https://github.com/CensoredUsername/unrpyc) - The `*.rpyc` file decompiler.
 + [unrpa](https://github.com/Lattyware/unrpa) - The most famous RPA archive extractor.
++ [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) - Essentially a GUI for `unrpa`.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
++ [warpa](https://github.com/mensch272/warpa) - RPA archive manipulation tool written in Rust.
 + [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
 + [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
 + [articy2renpy](https://github.com/TheSchnappi/articy2renpy) - A converter for [articy:draft](https://www.articy.com/en/) JSON exports to Ren'Py *.rpy script files.
++ [vnproofer](https://github.com/devorbitus/vnproofer) - Project proofreading and spellchecking tool that works by passing scripts through [cspell](https://www.npmjs.com/package/cspell).
++ [renxel](https://github.com/KagariSoft/renxel) - Transmute RenPy translation files to Excel tables and back.
++ [Ren'Py VSCode Project Template](https://github.com/tiliv/renpy-vscode-template) - a configuration for Visual Studio Code to enable running, linting and building from the IDE.
 
 ### End-user tools
 
 These tools are made for end-users, rather than developers.
 
 + [Translator3000](https://github.com/NyashniyVladya/Translator3000) - Runs RenPy games through automated translation. Trial version.
++ [rpycg](https://github.com/lure0xaos/rpycg) - Injects RenPy code into published games to enable developer mode and manually poke at the internals. Windows only.
 
 ## Assets
 
