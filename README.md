@@ -276,7 +276,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering.
 + [IMGOnline.com.ua](https://www.imgonline.com.ua/eng/) - a collection of online texture processing tools.
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
-+ [FotoSkether](https://fotosketcher.com/) - The better way of making photos look like painting. Windows-only, runs under Wine.
++ [FotoSketcher](https://fotosketcher.com/) - The better way of making photos look like painting. Windows-only, runs under Wine.
 
 ## Support
 
