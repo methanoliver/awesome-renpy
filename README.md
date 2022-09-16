@@ -88,6 +88,8 @@ Pieces of code big enough to be called libraries.
 + [Dating Sim Engine](https://github.com/renpy/dse) - The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.
 + [Sheepstorm Battle Framework](https://circle-cosine.itch.io/sheepstorm-battle-framework) - RPG style battle engine.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
++ [
+Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
 
 ## Cookbook
 
