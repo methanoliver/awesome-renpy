@@ -146,6 +146,7 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 + [Ren-Py-Free-to-Use-Falling-Leaves](https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves) - Particle-based falling leaves, complete with assets.
 + [Ren-Py-Free-to-Use-Moving-Clouds](https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds) - Particle-based moving clouds, complete with assets.
 + [Ren'Py Lovense Boilerplate](https://github.com/lolabray/Renpy-lovense-boilerplate) - Code examples for controlling Lovense vibrating devices from RenPy.
++ [Gradient()](https://gist.github.com/methanoliver/f265cd68bf13ac1008d7140d07b2e023) - A Gradient() equivalent of Solid() that generates gradients in place using shaders.
 
 ### Minigames
 
