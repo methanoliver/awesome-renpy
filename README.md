@@ -40,6 +40,7 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 + [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
 + [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
 + [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
++ [Python Tips](https://book.pythontips.com/en/latest/index.html) - While not specifically RenPy related, so a number of sections dealing with the operating environment are not relevant, this book will aid people who already know the very basics of Python.
 
 ### Patreon articles
 
