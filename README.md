@@ -171,6 +171,8 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 + [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
 + [Round corners shader](https://gist.github.com/Pseurae/15dc9c6a145161063126c3b4de39a0aa) - Very neat, but why does it only work on `Solid()` for me, I have no idea.
 + [Shader](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65248) - Several animated image-generating shaders ported from Shadertoy.
++ [Circle crop](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64534) - A shader way to make a square image circular.
++ [Drunk blur](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62705) - Double vision "drunk" blur.
 
 ### Code examples
 
