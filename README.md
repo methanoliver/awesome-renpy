@@ -35,6 +35,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
   + [End-user tools](#end-user-tools)
 + [Assets](#assets)
   + [Asset libraries](#asset-libraries)
+    + [Individual libre artists](#individual-libre-artists)
   + [Asset generators](#asset-generators)
   + [Asset editing tools](#asset-editing-tools)
 + [Support](#support)
@@ -293,12 +294,23 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Free Music Archive](https://freemusicarchive.org/) - Royalty-free and CC music.
 + [OpenGameArt](https://opengameart.org/) - assets for a variety of game types, many useful for visual novels.
 + [FreeSound](https://freesound.org/) - major source of free sounds of every description.
-+ [Incompetech](https://incompetech.com/music/royalty-free/music.html) - Kevin MacLeod's music. *Everyone* has heard it.
 + [SoundBible](https://soundbible.com/) - A collection of sound effects.
 + [Soundimage](https://soundimage.org/) - Specially aimed at game developers.
 + [FreePD](https://freepd.com/) - Music
 + [FontSquirrel](https://www.fontsquirrel.com/) - Free TTF/OTF fonts.
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
+
+#### Individual libre artists
+
+While you can search through places like [DeviantArt](https://deviantart.com), [Soundcloud](https://soundcloud.com/) and [Bandcamp](https://bandcamp.com/) for artists offering their work under one or another variant of [Creative Commons](https://creativecommons.org/), there are certain prolfic ones, and knowing them in advance will make things easier.
+
++ [Incompetech](https://incompetech.com/music/royalty-free/music.html) - Kevin MacLeod's music. *Everyone* has heard it.
++ [caryoscelus](https://caryoscelus.bandcamp.com/)
++ [PeriTune](https://peritune.com/)
++ [Alexander Zhelanov](https://soundcloud.com/alexandr-zhelanov)
++ [Savfk](https://soundcloud.com/savfk)
++ [Silverman Sound Studios](https://soundcloud.com/silvermansound)
++ [MaxKoMusic](https://soundcloud.com/maxkomusic)
 
 ### Asset generators
 
