@@ -69,6 +69,7 @@ These are select articles from [PyTom's Patreon](https://patreon.renpy.org/), mo
 + [Timed Choice Menus](https://patreon.renpy.org/timed-choice-menus.html) - How to make a choice menu that can time out.
 + [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
 + [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it currently does.
++ [News From Your Website](https://patreon.renpy.org/news.html) - Making HTTP requests from RenPy in examples.
 + [Ren’Py Developer Update - May 2022](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus) - How to make drop-down menus.
 
 ## Project templates
