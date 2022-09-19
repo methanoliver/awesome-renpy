@@ -337,7 +337,6 @@ Most of these are only useful to produce background images, as getting the detai
 + [WaifuLabs](https://waifulabs.com/) - limited usefulness, good for inspiration.
 + [craiyon](https://www.craiyon.com/)
 + [NeuralBlender](https://neuralblender.com/create-art)
-+ [VanceAI](https://vanceai.com/) - A number of image processing tools that includes interesting photo-to-sketch implementations.
 
 ### Asset editing tools
 
@@ -351,7 +350,8 @@ Most of these are only useful to produce background images, as getting the detai
 + [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering.
 + [IMGOnline.com.ua](https://www.imgonline.com.ua/eng/) - a collection of online texture processing tools.
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
-+ [FotoSketcher](https://fotosketcher.com/) - The better way of making photos look like painting. Windows-only, runs under Wine.
++ [FotoSketcher](https://fotosketcher.com/) - A better way of making photos look like paintings. Windows-only, runs under Wine.
++ [VanceAI](https://vanceai.com/) - A number of online image processing tools that includes interesting photo-to-sketch implementations.
 
 ## Support
 
