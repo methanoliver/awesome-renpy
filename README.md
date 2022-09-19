@@ -20,7 +20,6 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
     + [Text](#text)
     + [Effects](#effects)
     + [Displayables](#displayables)
-    + [Interoperability](#interoperability)
     + [Other snippets](#other-snippets)
   + [Minigames](#minigames)
   + [Shaders](#shaders)
@@ -89,6 +88,7 @@ Pieces of code big enough to be called libraries.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
 + [Static chessboard displayable](https://github.com/RuolinZheng08/renpy-static-chessboard) - What it says on the tin. Can be used to produce a [full AI-run chess game](https://github.com/RuolinZheng08/renpy-chess).
++ [Discord Rich Presence Support for Ren'Py Projects](https://github.com/Lezalith/RenPy_Discord_Presence) - Interact with Discord Rich Presence.
 
 ### Visual novel elements
 
@@ -161,10 +161,6 @@ Not all of these are confirmed to work in current versions of RenPy.
 + [Analog clock](https://github.com/williamd1k0/renpy-analog-clock) - A clock displayable.
 + [Projection starfield](https://github.com/jsfehler/renpy-projection-starfield) - Particle-based starfield.
 + [Radar chart](https://github.com/jsfehler/renpy-radarchart) - Displayable for plotting data onto a radar chart.
-
-#### Interoperability
-
-+ [Discord rich presence](https://arianeb.com/2019/07/19/adding-discord-rich-presence-to-renpy-games/) - currently out of date, but can presumably be made to work.
 
 #### Other snippets
 
