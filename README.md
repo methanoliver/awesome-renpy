@@ -347,6 +347,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [Boxy SVG](https://boxy-svg.com/) - free as in beer online-also vector image editor, cloud services require payment.
 + [Audacity](https://www.audacityteam.org/) - Open source audio editor.
 + [Ocenaudio](https://www.ocenaudio.com/en/) - Less powerful, but more convenient, free (as in beer) audio editor.
++ [Ardour](https://ardour.org) - A complete free Digital Audio Workstation.
 + [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering.
 + [IMGOnline.com.ua](https://www.imgonline.com.ua/eng/) - a collection of online texture processing tools.
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
