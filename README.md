@@ -124,7 +124,6 @@ Not all of these are confirmed to work in current versions of RenPy. Presented i
 
 + [Discord rich presence](https://arianeb.com/2019/07/19/adding-discord-rich-presence-to-renpy-games/) - currently out of date, but can presumably be made to work.
 + [X-Ray effect](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62128) - This turns the mouse pointer into a device to see inside things.
-+ [Font aliases](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64907&sid=623f90c9cd1dc91c1ae65cb8c0851a78) - how to avoid typing `{font=thisisalongfontname.ttf}` every time.
 + [ChromaGlitch](https://github.com/Gouvernathor/renpy-ChromaGlitch) - Glitch effect.
 + [RenPyGlitch](https://github.com/NyashniyVladya/RenPyGlitchs) - A different implementation of a glitch effect. Documentation in Russian.
 + [SWHolo](https://github.com/Gouvernathor/renpy-SWHolo) - Star Wars hologram effect.
