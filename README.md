@@ -24,6 +24,10 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 + [Tools](#tools)
   + [In-engine developer tools](#in-engine-developer-tools)
   + [Standalone developer tools](#standalone-developer-tools)
+    + [General](#general-1)
+    + [Continuous integration](#continuous-integration)
+    + [Unpacking and decompilation](#unpacking-and-decompilation)
+    + [Conversion](#conversion)
   + [End-user tools](#end-user-tools)
 + [Assets](#assets)
   + [Asset libraries](#asset-libraries)
@@ -223,22 +227,32 @@ These are meant to be built into the project at least during development, and th
 
 These are software unto themselves.
 
-+ [renpy2linux](https://github.com/Shizmob/renpy2linux) - A script to convert Ren'Py releases to Windows, OSX and Linux-compatible ones, when the only thing you have is one of the three. Requires Linux or OSX to work.
+#### General
+
 + [renpy-graphviz](https://github.com/EwenQuim/renpy-graphviz) - Draws a flowchart of a RenPy project based on jumps, calls and labels. Has an online version.
-+ [Twine to Ren'Py tool](https://ludowoods.itch.io/twine-to-renpy-tool) - A tool to port a [Twine](https://twinery.org/) project to RenPy. Cross-platform, requires Python 2.7 on platforms other than Windows.
-+ [renkit](https://github.com/kobaltcore/renkit) - A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.
 + [renpydeskgen](https://github.com/Polymehr/renpydeskgen) - Shell script to generate Linux `*.desktop` files for RenPy games.
++ [vnproofer](https://github.com/devorbitus/vnproofer) - Project proofreading and spellchecking tool that works by passing scripts through [cspell](https://www.npmjs.com/package/cspell).
++ [renxel](https://github.com/KagariSoft/renxel) - Transmute RenPy translation files to Excel tables and back.
++ [Ren'Py VSCode Project Template](https://github.com/tiliv/renpy-vscode-template) - a configuration for Visual Studio Code to enable running, linting and building from the IDE.
+
+#### Continuous integration
+
++ [renkit](https://github.com/kobaltcore/renkit) - A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.
++ [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
++ [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
+
+#### Unpacking and decompilation
+
 + [unrpyc](https://github.com/CensoredUsername/unrpyc) - The `*.rpyc` file decompiler.
 + [unrpa](https://github.com/Lattyware/unrpa) - The most famous RPA archive extractor.
 + [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) - Essentially a GUI for `unrpa`.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
 + [warpa](https://github.com/mensch272/warpa) - RPA archive manipulation tool written in Rust.
-+ [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
-+ [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
+
+#### Conversion
+
++ [Twine to Ren'Py tool](https://ludowoods.itch.io/twine-to-renpy-tool) - A tool to port a [Twine](https://twinery.org/) project to RenPy. Cross-platform, requires Python 2.7 on platforms other than Windows.
 + [articy2renpy](https://github.com/TheSchnappi/articy2renpy) - A converter for [articy:draft](https://www.articy.com/en/) JSON exports to Ren'Py *.rpy script files.
-+ [vnproofer](https://github.com/devorbitus/vnproofer) - Project proofreading and spellchecking tool that works by passing scripts through [cspell](https://www.npmjs.com/package/cspell).
-+ [renxel](https://github.com/KagariSoft/renxel) - Transmute RenPy translation files to Excel tables and back.
-+ [Ren'Py VSCode Project Template](https://github.com/tiliv/renpy-vscode-template) - a configuration for Visual Studio Code to enable running, linting and building from the IDE.
 
 ### End-user tools
 
@@ -246,6 +260,7 @@ These tools are made for end-users, rather than developers.
 
 + [Translator3000](https://github.com/NyashniyVladya/Translator3000) - Runs RenPy games through automated translation. Trial version.
 + [rpycg](https://github.com/lure0xaos/rpycg) - Injects RenPy code into published games to enable developer mode and manually poke at the internals. Windows only.
++ [renpy2linux](https://github.com/Shizmob/renpy2linux) - A script to convert Ren'Py releases to Windows, OSX and Linux-compatible ones, when the only thing you have is one of the three. Requires Linux or OSX to work.
 
 ## Assets
 
