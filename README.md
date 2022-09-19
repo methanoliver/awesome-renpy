@@ -85,6 +85,7 @@ Pieces of code big enough to be called libraries.
 + [Speech Bubbles](https://github.com/RenpyRemix/speech-bubbles) - A unique look presenting novel text as speech bubbles.
 + [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
 + [Kinetic Text Tags](https://github.com/SoDaRa/Kinetic-Text-Tags) - Text that shakes, waves, bounces, scatters, etc.
++ [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
 
 ### Gameplay elements
 
