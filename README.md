@@ -158,12 +158,12 @@ Not all of these are confirmed to work in current versions of RenPy.
 + [Ren-Py-Free-to-Use-Falling-Leaves](https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves) - Particle-based falling leaves, complete with assets.
 + [Ren-Py-Free-to-Use-Moving-Clouds](https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds) - Particle-based moving clouds, complete with assets.
 + [Gradient()](https://gist.github.com/methanoliver/f265cd68bf13ac1008d7140d07b2e023) - A Gradient() equivalent of Solid() that generates gradients in place using shaders.
++ [Projection starfield](https://github.com/jsfehler/renpy-projection-starfield) - Particle-based starfield.
 
 #### Displayables
 
 + [Static chessboard displayable](https://github.com/RuolinZheng08/renpy-static-chessboard) - What it says on the tin. Can be used to produce a [full AI-run chess game](https://github.com/RuolinZheng08/renpy-chess).
 + [Analog clock](https://github.com/williamd1k0/renpy-analog-clock) - A clock displayable.
-+ [Projection starfield](https://github.com/jsfehler/renpy-projection-starfield) - Particle-based starfield.
 + [Radar chart](https://github.com/jsfehler/renpy-radarchart) - Displayable for plotting data onto a radar chart.
 
 #### Other snippets
