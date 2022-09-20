@@ -108,7 +108,7 @@ Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR
 + [Pink Engine](https://pink-productions.itch.io/pink-engine) - Tiled map framework.
 + [RPG Battle Engine](https://github.com/Habitacle/battle-engine) - What it says on the tin.
 + [Sheepstorm Battle Framework](https://circle-cosine.itch.io/sheepstorm-battle-framework) - A different battle engine.
-+ [Cardgame Framework](https://github.com/renpy/cardgame) - What it says on the tin. Ancient code, but still works well in current RenPy.
++ [Cardgame Framework](https://github.com/renpy/cardgame) - What it says on the tin. Ancient code, but still works well in current RenPy. Not very suitable for modification, due to relying exclusively on deprecated features.
 
 ### Device imitation
 
