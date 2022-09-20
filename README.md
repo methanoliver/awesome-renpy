@@ -113,13 +113,15 @@ Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR
 
 ### Device imitation
 
-+ [Candella](https://github.com/UnscriptedVN/candella) - Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system.
++ [Candella](https://github.com/UnscriptedVN/candella) - "Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system." To put it less opaquely, this imitates a full window system with "applications" inside RenPy.
 + [Ren'Py Chat Log](https://github.com/JimTheCactus/chatlogging) -- Library for displaying scrolling chat logs.
 + [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
 + [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
 + [RenpyPhoneSMS](https://github.com/israelrbb/RenpyPhoneSMS) - And another one.
 
 ### Extra content
+
+In a classic Japanese title, these would go into making the contents of an "Extras" menu.
 
 + [GalleryPlus](https://github.com/cheonbyeol/RenPy-GalleryPlus) - Extends the functionality of RenPy's built-in Gallery class. Allows looping images, pages, navigation buttons.
 + [renpy-gallery-inject](https://github.com/Numerlor/renpy-gallery-inject) - Self contained gallery screen, and code to allow the screen and functionality to be patched into existing games without changing their code in any way.
