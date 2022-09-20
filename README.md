@@ -98,6 +98,7 @@ Pieces of code big enough to be called libraries.
 + [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
 + [Kinetic Text Tags](https://github.com/SoDaRa/Kinetic-Text-Tags) - Text that shakes, waves, bounces, scatters, etc.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
++ [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 
 ### Gameplay elements
 
@@ -113,7 +114,6 @@ Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR
 ### Device imitation
 
 + [Candella](https://github.com/UnscriptedVN/candella) - Candella is a fork of the AliceOS framework, a Ren'Py framework that provides an operating environment to visual novels. This operating environment includes utilities, classes, and other code that lets developers and players write and use apps designed for the system.
-+ [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 + [Ren'Py Chat Log](https://github.com/JimTheCactus/chatlogging) -- Library for displaying scrolling chat logs.
 + [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
 + [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
