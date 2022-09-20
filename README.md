@@ -7,7 +7,16 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 ## Contents
 
 + [Tutorials](#tutorials)
+  + [Introductory](#introductory)
+  + [Python](#python)
+  + [Specific](#specific)
   + [Patreon articles](#patreon-articles)
+    + [Internals](#internals)
+    + [Features](#features)
+      + [Menus](#menus)
+    + [Platform support details](#platform-support-details)
+    + [Interoperability](#interoperability)
+    + [Examples](#examples)
 + [Project templates](#project-templates)
 + [Frameworks](#frameworks)
   + [General](#general)
@@ -47,31 +56,98 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 
 That is, of course, no excuse not to read it, but if that was not helpful:
 
+### Introductory
+
 + [Lezcave](https://www.lezcave.com/renpy-tutorials/) - A set of basic tutorials
 + [VNCoder](https://vncoder.dev/) - Another set of basic tutorials.
-+ [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
-+ [RenPy for Dummies](https://renpyfordummies.blogspot.com/) - A Russian-language blog full of cookbook examples.
 + [Working with RenPy](https://videlais.com/2018/06/28/working-with-renpy-part-1-downloading-and-configuring/) - Almost a book, walking through much of the basics.
-+ [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
-+ [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
-+ [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
+
+### Python
+
++ [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
 + [Python Tips](https://book.pythontips.com/en/latest/index.html) - While not specifically RenPy related, so a number of sections dealing with the operating environment are not relevant, this book will aid people who already know the very basics of Python.
++ [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
+
+### Specific
+
++ [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
++ [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
 + [Ren'Py Visual Novels on Steam Guide](https://docs.google.com/document/d/1La4Pg72Wzpo1cPFFPk_g8Wjkl-MwLG2Qunwu65Ovl5w/edit) - A comprehensive guide with screenshots for getting your Ren’Py based game onto Steam.
++ [RenPy for Dummies](https://renpyfordummies.blogspot.com/) - A Russian-language blog full of cookbook examples.
 
 ### Patreon articles
 
-These are select articles from [PyTom's Patreon](https://patreon.renpy.org/), most of which which explain a certain feature in more detail than the manual does and provide example code.
+These are articles from [PyTom's Patreon](https://patreon.renpy.org/), most of which which explain a certain feature in more detail than the manual does and provide example code.
+
+#### Internals
+
+Explain certain obscure, but sometimes critical implementation details.
 
 + [Under the Hood: Interactions](https://patreon.renpy.org/interaction.html) - the only explanation of what an "interaction" is.
-+ [Adding Google Analytics to Your Visual Novel](https://patreon.renpy.org/analytics.html)
-+ [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
-+ [Automatic speech bubbles](https://patreon.renpy.org/speech-bubbles.html) - A simpler take on speech bubbles than the Speech Bubbles framework.
++ [What is a context?](https://patreon.renpy.org/dev-2019-12.html#extra-what-s-a-context) - A more in-depth explanation of what a context is.
++ [Porting your game to Python 3](https://patreon.renpy.org/dev-2021-12.html#porting-your-game-to-python-3) - Some detail on what exactly is different between the 7.5 and 8.0 branches of RenPy and how to switch over.
++ [Under the Hood: .rpyc files](https://patreon.renpy.org/rpyc.html) - Describes the internals of an `.rpyc` file and their use.
++ [Save Compatibility Through Repeated Releases
+](https://patreon.renpy.org/dev-2021-02.html#save-compatibility-through-repeated-releases)
++ [Avoiding Framerate Glitches Caused By Image Prediction](https://patreon.renpy.org/framerate-stability.html)
+
+#### Features
+
+Explanations on the use of a particular feature.
+
++ [Character Customization](https://patreon.renpy.org/character-customization.html) - Using character objects to apply textbox customizations.
 + [Multiple Dialogue Blocks](https://patreon.renpy.org/multiple-dialogue.html)
++ [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it normally can.
++ [Decorators and gui.variant](https://patreon.renpy.org/dev-2021-11.html#decorators-and-gui-variant) - On the proper usage of `renpy.variant`.
++ [Adjust Attribute Example](https://patreon.renpy.org/dev-2021-04.html#adjust-attribute-example) - How to use `config.adjust_attributes` and whether you need to.
++ [Pausing movies](https://patreon.renpy.org/dev-2021-07.html#pausing-movies) - How to pause movies and music.
++ [Save on Quit](https://patreon.renpy.org/save-on-quit.html) - One of the actually numerous ways to automatically save on quit.
++ [Layered Image Conversion](https://patreon.renpy.org/layeredimage-conversion.html) - Converting to use `LayeredImage` from the obsolete technique of using `Composite`/`LiveComposite`.
+
+##### Menus
+
+`menu:` statement has a lot more flexibility than you would think.
+ 
 + [Timed Choice Menus](https://patreon.renpy.org/timed-choice-menus.html) - How to make a choice menu that can time out.
-+ [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
-+ [Save Metadata](https://patreon.renpy.org/save-metadata.html) - How to get your save/load screen to display more in-depth information about a save than it currently does.
++ [Shuffling choice menus](https://patreon.renpy.org/shuffle-menu.html) - Shuffling items in the menu.
++ [Menu Arguments Cookbook](https://patreon.renpy.org/menu-arguments.html) - More advanced examples on using menus.
++ [Very Old Features](https://patreon.renpy.org/very-old-features.html) - Three rarely used features - menu labels, menu sets and gameplay timer.
++ [Menu blurring](https://patreon.renpy.org/dev-2020-09.html#menu-blurring) - An example of overriding the built-in menu system to blur the image behind the menu buttons.
+
+#### Platform support details
+
+Details on what you need to do to get your project to run on a particular platform.
+
++ [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
++ [Notarizing Mac Applications](https://patreon.renpy.org/macos-notarization.html#notarizing-mac-applications) - How to notarize your OSX releases.
+
+#### Interoperability
+
+Interoperability with the rest of the world.
+
++ [Requests](https://patreon.renpy.org/dev-2020-11.html#requests) - Using the bundled [requests](https://requests.readthedocs.io/en/latest/) Python library to, among other things, save data to a Google Sheet. For the record, the bundled version in 8.0.3 is 2.20.0
 + [News From Your Website](https://patreon.renpy.org/news.html) - Making HTTP requests from RenPy in examples.
-+ [Ren’Py Developer Update - May 2022](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus) - How to make drop-down menus.
++ [Adding Google Analytics to Your Visual Novel](https://patreon.renpy.org/analytics.html) - See also the updated script in a [later Patreon post](https://patreon.renpy.org/dev-2021-03.html#analytics).
+
+#### Examples
+
+Code examples implementing a particular feature.
+
++ [Automatic speech bubbles](https://patreon.renpy.org/speech-bubbles.html) - A simpler take on speech bubbles than the Speech Bubbles framework.
++ [Three Creator Defined Statements](https://patreon.renpy.org/three-creator-defined-statements.html)
++ [Drop Down Menus](https://patreon.renpy.org/dev-2022-05.html#drop-down-menus) - How to make drop-down menus.
++ [Multi-Key](https://patreon.renpy.org/dev-2022-04.html#multi-key) - Reacting to multiple keys pressed simultaneously.
++ [Marquee](https://patreon.renpy.org/dev-2021-11.html#marquee) - How to make text that scrolls back and forth if it's longer than the area allocated to it.
++ [MultipleCallback](https://patreon.renpy.org/dev-2020-03.html#multiple-callbacks) - Example of how to use configuration variables that only permit one callback function to call multiple functions anyway.
++ [Label log](https://patreon.renpy.org/dev-2020-02.html#label-log) - Example of using `config.label_callback`.
++ [Flashing Messages on the Main Menu](https://patreon.renpy.org/dev-2020-01.html#visual-conference) - Example of how to draw attention to new menu items by making them flash until investigated.
++ [Checking for Changes and Displaying A Message
+](https://patreon.renpy.org/check-for-changes.html) - How to automate displaying a message to a player when a variable changes without writing explicit checks.
++ [Python Tricks #1](https://patreon.renpy.org/python-tricks-1.html) - Simplifying long screen action lists, using `__unicode__` to create a string representation of an object for interpolation.
++ [Python Tricks #2](https://patreon.renpy.org/python-tricks-2.html) - On using random number generation and queueing images for display.
++ [Title Screens](https://patreon.renpy.org/title-screens.html)
++ [In-Game Wiki-Like Glossary or Codex](https://patreon.renpy.org/wiki.html)
++ [Custom Preferences](https://patreon.renpy.org/custom-preferences.html) - Adding more things to the Preferences screen and using them.
 
 ## Project templates
 
@@ -185,7 +261,6 @@ These are useful, but difficult to categorize.
 + [Free-hand draw](https://github.com/jsfehler/renpy-freehand-draw) - Draw on a canvas inside a Ren'Py game.
 + [MyShow](https://gist.github.com/Enerccio/1e24664f2d6705d30d1f4cce2cced902) - An example of overriding the built-in `show` statement to potentially add functionality, does so by directly editing the script in memory after loading.
 + [screen_choice](https://gist.github.com/dossy/cbb7b7ed18a292e4d9c51c8d63a15c69) - How to apply transitions to the current scene behind a Ren'Py choice menu.
-+ [shuffle_menu](https://gist.github.com/renpytom/5934f9fb850d4bcf01ffe7834e241778) - How to get a `menu` statement to shuffle items before displaying them.
 + [afk.rpy](https://gist.github.com/tserber98/b0d177c4dffa38e4719695b13c87e55f) - How to detect that a player didn't attend the game for a certain period.
 + [Differential image loader](https://gist.github.com/methanoliver/2668767d5332aea66a866d2b84692d1c) - Given two different sprites of the same character in the same pose, produce image files which use one of them as a base, store only the pixels that are different from that base for all others, and automatically make a `layeredimage` out of them.
 + [Affection points](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=22817#p287294) An example of implementing the basic notion of affection points.
@@ -215,7 +290,7 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 
 + [RenPy Shader Collection](https://github.com/valery-iwanofu/renpy-shader-collection) - waves, color picker.
 + [Wave shader](https://github.com/SoDaRa/RenpyWaveShader) - A better documented wave shader.
-+ [Renpy-GLSL-Test](https://github.com/WatercressStudios/Renpy-GLSL-Test) - Experimental setup, contains a packaged "whirl" transition.
++ [Renpy-GLSL-Test](https://github.com/WatercressStudios/Renpy-GLSL-Test) - Experimental setup, contains a packaged "whirl" transition that originates from [one of PyTom's patreon posts](https://patreon.renpy.org/dev-2020-07.html).
 + [renpy-blend-modes](https://github.com/CrossCouloir/renpy-blend-modes) - Shader-based Photoshop-style blend modes for images. Only soft light is implemented.
 + [RGB Split](https://github.com/AgentAlpha81/RGB-Split) - Chromatic aberration shader.
 + [Outline shader](https://github.com/RenpyRemix/outline-shader) - Adds outlines to arbitrary objects.
