@@ -6,10 +6,11 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 
 ## Contents
 
-+ [Tutorials](#tutorials)
++ [Documentation](#documentation)
   + [Introductory](#introductory)
   + [Python](#python)
   + [Specific](#specific)
+  + [Non-English documentation](#non-english-documentation)
   + [Patreon articles](#patreon-articles)
     + [Internals](#internals)
     + [Features](#features)
@@ -50,7 +51,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
   + [Asset editing tools](#asset-editing-tools)
 + [Support](#support)
 
-## Tutorials
+## Documentation
 
 [RenPy's own documentation](https://www.renpy.org/doc/html/index.html) is somewhat scattered, at times incomplete, and often, insufficiently detailed.
 
@@ -73,7 +74,11 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 + [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
 + [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
 + [Ren'Py Visual Novels on Steam Guide](https://docs.google.com/document/d/1La4Pg72Wzpo1cPFFPk_g8Wjkl-MwLG2Qunwu65Ovl5w/edit) - A comprehensive guide with screenshots for getting your Ren’Py based game onto Steam.
+
+### Non-English documentation
+
 + [RenPy for Dummies](https://renpyfordummies.blogspot.com/) - A Russian-language blog full of cookbook examples.
++ [Энциклопедия Ren'Py](http://ru.renpypedia.shoutwiki.com/) - Russian-language RenPy wiki.
 
 ### Patreon articles
 
@@ -167,6 +172,7 @@ Pieces of code big enough to be called libraries.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
 + [Discord Rich Presence Support for Ren'Py Projects](https://github.com/Lezalith/RenPy_Discord_Presence) - Interact with Discord Rich Presence.
++ [Auto Weather Change](https://github.com/multimokia/Renpy-Weather-Utils) - Access [openweathermap](https://openweathermap.org/) API to acquire weather information from RenPy.
 
 ### Visual novel elements
 
@@ -282,6 +288,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 + [Rhythm game](https://github.com/RuolinZheng08/renpy-rhythm) - Dance Dance Revolution style, well documented.
 + [Rock Paper Scissors](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361) - A RPS game meant as a tutorial how to program one.
 + [renpy-go](https://github.com/limniris1/renpy-go) - [Go](https://en.wikipedia.org/wiki/Go_(game)) in RenPy.
++ [Space Invaders](https://github.com/pass-by-reference/renpy-space-invaders)
 + [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
 
 ### Shaders
