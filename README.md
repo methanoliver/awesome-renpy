@@ -225,7 +225,6 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 Occasionally, entire games are published as open source. Whenever they contain anything useful as example code, they go in this section.
 
 + [Cute demon crashers](https://github.com/robotlolita/cute-demon-crashers) - interesting examples of functional programming, well commented, even if dated.
-+ [Soaria scripty bits for Ren'py](https://github.com/kayateia/soaria-renpy) - "These are a few scripts with common code pulled from our own VN work that might be useful to others."
 + [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
 + [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
 + [DW Klondike Solitaire](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire) - A complete Solitaire in RenPy, good as an example of using the Card Game Framework.
