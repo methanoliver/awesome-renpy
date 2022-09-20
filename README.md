@@ -29,6 +29,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
   + [Snippets](#snippets)
     + [Text](#text)
     + [Effects](#effects)
+    + [Particles](#particles)
     + [Displayables](#displayables)
     + [User interface](#user-interface)
     + [Other snippets](#other-snippets)
@@ -125,6 +126,7 @@ Details on what you need to do to get your project to run on a particular platfo
 
 + [Android Adaptive Icons in Ren’Py](https://patreon.renpy.org/android-icons.html)
 + [Notarizing Mac Applications](https://patreon.renpy.org/macos-notarization.html#notarizing-mac-applications) - How to notarize your OSX releases.
++ [Steam Deck Guide](https://github.com/renpy/steam-deck-guide) - How to get your project to pass Steam Deck compatibility review.
 
 #### Interoperability
 
@@ -173,6 +175,7 @@ Pieces of code big enough to be called libraries.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
 + [Discord Rich Presence Support for Ren'Py Projects](https://github.com/Lezalith/RenPy_Discord_Presence) - Interact with Discord Rich Presence.
 + [Auto Weather Change](https://github.com/multimokia/Renpy-Weather-Utils) - Access [openweathermap](https://openweathermap.org/) API to acquire weather information from RenPy.
++ [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
 
 ### Visual novel elements
 
@@ -210,6 +213,7 @@ In a classic Japanese title, these would go into making the contents of an "Extr
 + [renpy-gallery-inject](https://github.com/Numerlor/renpy-gallery-inject) - Self contained gallery screen, and code to allow the screen and functionality to be patched into existing games without changing their code in any way.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
 + [Ren'Py Universal Player](https://github.com/GanstaKingofSA/RenPy-Universal-Player) - An enhanced music room for Ren'Py projects that allows users to play tracks outside the game's story along with sideloaded songs.
++ [renpy-achievement](https://github.com/shawna-p/renpy-achievement) - A screen to display an XBox-like achievement popup. Does not actually interact with any achievement backend, but the builtin one should serve.
 
 ## Cookbook
 
@@ -236,15 +240,19 @@ Not all of these are confirmed to work in current versions of RenPy.
 + [RenPyGlitch](https://github.com/NyashniyVladya/RenPyGlitchs) - A different implementation of a glitch effect. Documentation in Russian.
 + [SWHolo](https://github.com/Gouvernathor/renpy-SWHolo) - Star Wars hologram effect.
 + [Parallax layer](https://gist.github.com/midgethetree/b449be114f21974ed21b3fbf3653433f) - Layer parallax based on mouse position.
-+ [Dust](https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f) - a particle effect. Documentation in Russian.
 + [Rain effect](https://gist.github.com/methanoliver/98fe9304b63fff1f7d3419120e2c11f5) - not particle, but rather texture based.
 + [Simple rain effect](https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=37489#p406150) - describes a simpler, but less convincing technique to make rain.
 + [How to do a cloud animation with RenPy](https://traumendes-madchen.com/blog/?p=1395) - A primer on animated backgrounds.
 + [Noir-Style Shadow/Lighting Effects](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=49140#p483366) - fun with AlphaMask.
++ [Gradient()](https://gist.github.com/methanoliver/f265cd68bf13ac1008d7140d07b2e023) - A Gradient() equivalent of Solid() that generates gradients in place using shaders.
+
+#### Particles
+
++ [RenPyParticles](https://github.com/AgentAlpha81/RenPyParticles) - Custom particle motion classes. Documentation in Russian.
++ [Dust](https://gist.github.com/rurubell/a30752048bbe20de546d737c2476916f) - a particle effect. Documentation in Russian.
++ [Projection starfield](https://github.com/jsfehler/renpy-projection-starfield) - Particle-based starfield.
 + [Ren-Py-Free-to-Use-Falling-Leaves](https://github.com/Thediamondcryst/Ren-Py-Free-to-Use-Falling-Leaves) - Particle-based falling leaves, complete with assets.
 + [Ren-Py-Free-to-Use-Moving-Clouds](https://github.com/Thediamondcryst/Ren-Py-Free-To-Use-Moving-Clouds) - Particle-based moving clouds, complete with assets.
-+ [Gradient()](https://gist.github.com/methanoliver/f265cd68bf13ac1008d7140d07b2e023) - A Gradient() equivalent of Solid() that generates gradients in place using shaders.
-+ [Projection starfield](https://github.com/jsfehler/renpy-projection-starfield) - Particle-based starfield.
 
 #### Displayables
 
@@ -314,6 +322,7 @@ Occasionally, entire games are published as open source. Whenever they contain a
 + [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
 + [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
 + [DW Klondike Solitaire](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire) - A complete Solitaire in RenPy, good as an example of using the Card Game Framework.
++ [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) - An entire game built around a custom messenger imitation.
 
 ### Other
 
