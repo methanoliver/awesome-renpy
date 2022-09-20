@@ -78,6 +78,7 @@ Templates to start off a new project containing commonly requested features a st
 
 + [All-in-one GUI Template](https://tofurocks.itch.io/renpy-gui-template)
 + [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) - An advanced starter project template.
++ [renpy-minimal-template](https://github.com/enaielei/renpy-minimal-template) - Actually the complete reverse: A minimal working template, which contains none of the default GUI. Also contains the example of using the scarcely documented explicitly loadable modules feature.
 
 ## Frameworks
 
