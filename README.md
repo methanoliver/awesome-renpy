@@ -351,6 +351,7 @@ These are software unto themselves.
 + [vnproofer](https://github.com/devorbitus/vnproofer) - Project proofreading and spellchecking tool that works by passing scripts through [cspell](https://www.npmjs.com/package/cspell).
 + [renxel](https://github.com/KagariSoft/renxel) - Transmute RenPy translation files to Excel tables and back.
 + [Ren'Py VSCode Project Template](https://github.com/tiliv/renpy-vscode-template) - a configuration for Visual Studio Code to enable running, linting and building from the IDE.
++ [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php) - Not RenPy specific, this will be very helpful if you want to figure out `blend` transform property to get a particular visual effect.
 
 #### Continuous integration
 
