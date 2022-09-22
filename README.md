@@ -21,6 +21,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
 + [Project templates](#project-templates)
 + [Frameworks](#frameworks)
   + [General](#general)
+  + [Network](#network)
   + [Visual novel elements](#visual-novel-elements)
   + [Gameplay elements](#gameplay-elements)
   + [Device imitation](#device-imitation)
@@ -170,12 +171,15 @@ Pieces of code big enough to be called libraries.
 
 ### General
 
-+ [RADC](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement) - A framework to enable a RenPy project to download its own DLC. Documentation in Spanish only.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
++ [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
+
+### Network
+
++ [RADC](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement) - A framework to enable a RenPy project to download its own DLC. Documentation in Spanish only.
 + [Discord Rich Presence Support for Ren'Py Projects](https://github.com/Lezalith/RenPy_Discord_Presence) - Interact with Discord Rich Presence.
 + [Auto Weather Change](https://github.com/multimokia/Renpy-Weather-Utils) - Access [openweathermap](https://openweathermap.org/) API to acquire weather information from RenPy.
-+ [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
 
 ### Visual novel elements
 
