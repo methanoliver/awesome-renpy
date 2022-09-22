@@ -74,6 +74,7 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 ### Specific
 
 + [Ren'Py Tutorial - LayeredImage](https://tofurocks.itch.io/renpytut-layeredimage) - Complexities of `layeredimage` by example.
++ [Reading Screen Language Documentation](https://github.com/jbondguy007/reading-renpy-screens-docs) - A treatise on understanding screen language documentation.
 + [Implementing Translations](https://mysterycorgi.itch.io/renpy-tips/devlog/74300/implementing-translations) - Detailed explanation of how to translate a project into multiple languages.
 + [Ren'Py Visual Novels on Steam Guide](https://docs.google.com/document/d/1La4Pg72Wzpo1cPFFPk_g8Wjkl-MwLG2Qunwu65Ovl5w/edit) - A comprehensive guide with screenshots for getting your Ren’Py based game onto Steam.
 
