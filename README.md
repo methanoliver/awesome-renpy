@@ -339,6 +339,7 @@ These are meant to be built into the project at least during development, and th
 + [MouseFinderTool](https://github.com/CharlieFuu69/RenPy_MouseFinderTool) - A set of developer tools to pinpoint mouse position of things. Documentation in Spanish only.
 + [RVRE](https://github.com/picobyte/RVRE) - The editor provides a means to proofread your visual novel while running it and without leaving.
 + [Caption Tool](https://npckc.itch.io/caption-tool-for-renpy) - A tool to add image and sound captions for accessibility purposes.
++ [renpy-TranslationTools](https://github.com/Gouvernathor/renpy-TranslationTools) - Tools to aid in managing translations in certain corner cases. Also the rare example of embedding RenPy-script in Python, rather than the reverse as is usual.
 
 ### Standalone developer tools
 
