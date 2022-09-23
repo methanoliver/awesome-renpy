@@ -70,6 +70,7 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 + [Feniks Development](https://feniksdev.com/navigation/) - In-depth explanations of basic programming notions as they relate to RenPy.
 + [Python Tips](https://book.pythontips.com/en/latest/index.html) - While not specifically RenPy related, so a number of sections dealing with the operating environment are not relevant, this book will aid people who already know the very basics of Python.
 + [getting your head around Ren'py: for coders](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=39572#p422964) - Explains the unusual things about RenPy for people with experience of more regular programming languages.
++ [Free Python Books](https://github.com/pamoroso/free-python-books) - A list of Python books in English that are free to read online or download.
 
 ### Specific
 
