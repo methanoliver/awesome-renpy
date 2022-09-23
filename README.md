@@ -292,6 +292,7 @@ These are useful, but difficult to categorize.
 + [BPM in Ren'Py - Timing animations to your musics tempo](https://sleepyagents.blogspot.com/2016/09/bpm-in-renpy-timing-animations-to-your.html) - Describes the techniques to manually time an animation to music tempo.
 + [Making a Separate Content Patch](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=45448#p463349) - How to make an optional content patch.
 + [Ren'Py Lovense Boilerplate](https://github.com/lolabray/Renpy-lovense-boilerplate) - Code examples for controlling Lovense vibrating devices from RenPy.
++ [Import Json Data Easier](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65400) - A class decorator you can use to easily populate data storing objects from a JSON file.
 
 ### Minigames
 
