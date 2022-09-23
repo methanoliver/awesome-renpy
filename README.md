@@ -463,7 +463,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [Audacity](https://www.audacityteam.org/) - Open source audio editor.
 + [Ocenaudio](https://www.ocenaudio.com/en/) - Less powerful, but more convenient, free (as in beer) audio editor.
 + [Ardour](https://ardour.org) - A complete free Digital Audio Workstation.
-+ [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering.
++ [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/).
 + [IMGOnline.com.ua](https://www.imgonline.com.ua/eng/) - a collection of online texture processing tools.
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
 + [FotoSketcher](https://fotosketcher.com/) - A better way of making photos look like paintings. Windows-only, runs under Wine.
