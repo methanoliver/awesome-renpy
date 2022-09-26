@@ -408,6 +408,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Soundimage](https://soundimage.org/) - Specially aimed at game developers.
 + [GameSounds](https://gamesounds.xyz/) - Large library of sounds aimed for games.
 + [FreePD](https://freepd.com/) - Music
++ [Altphotos](https://altphotos.com/) - CC0 stock photos ready to be mutated into artwork.
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
 
 #### Fonts
@@ -504,4 +505,10 @@ You can find a community of RenPy users in your language, provided it's one of:
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome), [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness). Of particular note for RenPy users should be [awesome-python](https://github.com/vinta/awesome-python) and [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl).
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome), [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+
+Those should be of particular interest for RenPy users:
+
++ [awesome-python](https://github.com/vinta/awesome-python)
++ [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
++ [magictools](https://github.com/ellisonleao/magictool)
