@@ -469,6 +469,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
 + [FotoSketcher](https://fotosketcher.com/) - A better way of making photos look like paintings. Windows-only, runs under Wine.
 + [VanceAI](https://vanceai.com/) - A number of online image processing tools that includes interesting photo-to-sketch implementations.
++ [Calligraphr](https://www.calligraphr.com/) - A web service that generates a TTF from supplied images, meant primarily to produce handwritten fonts.
 
 ## Support
 
