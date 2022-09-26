@@ -52,6 +52,9 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
     + [Individual libre artists](#individual-libre-artists)
   + [Asset generators](#asset-generators)
   + [Asset editing tools](#asset-editing-tools)
+    + [Graphics](#graphics)
+    + [Sound](#sound)
+    + [Video](#video)
 + [Support](#support)
 
 ## Documentation
@@ -199,7 +202,7 @@ Pieces of code big enough to be called libraries.
 + [
 Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
 + [Lezinventory](https://www.lezcave.com/lezinventory-framework/) - General purpose inventory system.
-+ [Pink Engine](https://pink-productions.itch.io/pink-engine) - Tiled map framework.
++ [Pink Engine](https://pink-productions.itch.io/pink-engine) - Tiled map framework capable of using [Tiled](https://www.mapeditor.org/) maps.
 + [RPG Battle Engine](https://github.com/Habitacle/battle-engine) - What it says on the tin.
 + [Sheepstorm Battle Framework](https://circle-cosine.itch.io/sheepstorm-battle-framework) - A different battle engine.
 + [Cardgame Framework](https://github.com/renpy/cardgame) - What it says on the tin. Ancient code, but still works well in current RenPy. Not very suitable for modification, due to relying exclusively on deprecated features.
@@ -403,6 +406,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [FreeSound](https://freesound.org/) - major source of free sounds of every description.
 + [SoundBible](https://soundbible.com/) - A collection of sound effects.
 + [Soundimage](https://soundimage.org/) - Specially aimed at game developers.
++ [GameSounds](https://gamesounds.xyz/) - Large library of sounds aimed for games.
 + [FreePD](https://freepd.com/) - Music
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
 
@@ -410,6 +414,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 
 + [FontSquirrel](https://www.fontsquirrel.com/) - Free TTF/OTF fonts.
 + [FontStruct](https://fontstruct.com/) - a large library of decorative and special-purpose fonts, many of them permissively licensed. Also a web service to build fonts from scratch.
++ [OpenFontLibrary](https://fontlibrary.org/)
 
 #### Individual libre artists
 
@@ -462,21 +467,31 @@ Most of these are only useful to produce background images, as getting the detai
 
 ### Asset editing tools
 
+#### Graphics
+
 + [Krita](https://krita.org/) - The best open source paint program.
   + [Generate Ren'Py Scripting](https://github.com/SeanHRN/generate-renpy-scripting) - A plugin for Krita, outputs a block of Ren'Py script to display the images of the active Krita document as they appear on the canvas, working in tandem with the [krita-batch-exporter](https://github.com/GDQuest/krita-batch-exporter).
 + [GIMP](https://www.gimp.org/) - The more arcane and ancient, but likewise powerful open source paint program.
++ [Synfig Studio](https://www.synfig.org/) - Free animation software.
 + [Inkscape](https://inkscape.org/) - best open source vector image editor.
 + [Boxy SVG](https://boxy-svg.com/) - free as in beer online-also vector image editor, cloud services require payment.
-+ [Audacity](https://www.audacityteam.org/) - Open source audio editor.
-+ [Ocenaudio](https://www.ocenaudio.com/en/) - Less powerful, but more convenient, free (as in beer) audio editor.
-+ [Ardour](https://ardour.org) - A complete free Digital Audio Workstation.
-+ [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video and audio format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/).
 + [IMGOnline.com.ua](https://www.imgonline.com.ua/eng/) - a collection of online texture processing tools.
 + [Waifu2X](https://waifu2x.booru.pics/) - AI-based image upscaler.
 + [FotoSketcher](https://fotosketcher.com/) - A better way of making photos look like paintings. Windows-only, runs under Wine.
 + [VanceAI](https://vanceai.com/) - A number of online image processing tools that includes interesting photo-to-sketch implementations.
 + [Calligraphr](https://www.calligraphr.com/) - A web service that generates a TTF from supplied images, meant primarily to produce handwritten fonts.
 + [Homestyler](https://www.homestyler.com/) - Online interior design tool, useful to produce an image of an interior that you will later torture with an AI painting tool.
+
+#### Sound
+
++ [Audacity](https://www.audacityteam.org/) - Open source audio editor.
++ [Ocenaudio](https://www.ocenaudio.com/en/) - Less powerful, but more convenient, free (as in beer) audio editor.
++ [Ardour](https://ardour.org) - A complete free Digital Audio Workstation.
++ [LMMS](https://lmms.io/) - A loop-based Digital Audio Workstation.
+
+#### Video
+
++ [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/).
 
 ## Support
 
