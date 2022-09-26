@@ -48,6 +48,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
   + [End-user tools](#end-user-tools)
 + [Assets](#assets)
   + [Asset libraries](#asset-libraries)
+    + [Fonts](#fonts)
     + [Individual libre artists](#individual-libre-artists)
   + [Asset generators](#asset-generators)
   + [Asset editing tools](#asset-editing-tools)
@@ -403,8 +404,12 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [SoundBible](https://soundbible.com/) - A collection of sound effects.
 + [Soundimage](https://soundimage.org/) - Specially aimed at game developers.
 + [FreePD](https://freepd.com/) - Music
-+ [FontSquirrel](https://www.fontsquirrel.com/) - Free TTF/OTF fonts.
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
+
+#### Fonts
+
++ [FontSquirrel](https://www.fontsquirrel.com/) - Free TTF/OTF fonts.
++ [FontStruct](https://fontstruct.com/) - a large library of decorative and special-purpose fonts, many of them permissively licensed. Also a web service to build fonts from scratch.
 
 #### Individual libre artists
 
@@ -453,6 +458,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [WaifuLabs](https://waifulabs.com/) - limited usefulness, good for inspiration.
 + [craiyon](https://www.craiyon.com/)
 + [NeuralBlender](https://neuralblender.com/create-art)
++ [SumoPaint](http://sumopaint.com/) - An online paint program that integrates a [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)-based image generator.
 
 ### Asset editing tools
 
@@ -470,6 +476,7 @@ Most of these are only useful to produce background images, as getting the detai
 + [FotoSketcher](https://fotosketcher.com/) - A better way of making photos look like paintings. Windows-only, runs under Wine.
 + [VanceAI](https://vanceai.com/) - A number of online image processing tools that includes interesting photo-to-sketch implementations.
 + [Calligraphr](https://www.calligraphr.com/) - A web service that generates a TTF from supplied images, meant primarily to produce handwritten fonts.
++ [Homestyler](https://www.homestyler.com/) - Online interior design tool, useful to produce an image of an interior that you will later torture with an AI painting tool.
 
 ## Support
 
