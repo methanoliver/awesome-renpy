@@ -268,6 +268,7 @@ Not all of these are confirmed to work in current versions of RenPy.
 
 + [Static chessboard displayable](https://github.com/RuolinZheng08/renpy-static-chessboard) - What it says on the tin. Can be used to produce a [full AI-run chess game](https://github.com/RuolinZheng08/renpy-chess).
 + [Analog clock](https://github.com/williamd1k0/renpy-analog-clock) - A clock displayable.
++ [Simpo clock](https://badmustard.itch.io/simpo-clock) - Another clock
 + [Radar chart](https://github.com/jsfehler/renpy-radarchart) - Displayable for plotting data onto a radar chart.
 
 #### User interface
