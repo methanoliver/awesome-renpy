@@ -335,6 +335,7 @@ Occasionally, entire games are published as open source. Whenever they contain a
 + [Decompiled Doki Doki Literature Club](https://github.com/SecondThundeR/DokiDoki-RenPy) - while this is presented only for the purposes of producing mods, this showcases the state of the art of RenPy programming from 6.99 era, and is of historical and educational interest.
 + [DW Klondike Solitaire](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire) - A complete Solitaire in RenPy, good as an example of using the Card Game Framework.
 + [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) - An entire game built around a custom messenger imitation.
++ [carpe-diem](https://github.com/moonlitworks/carpe-diem) - Complete source for [Carpe Diem](https://store.steampowered.com/app/423880/Carpe_Diem/)
 
 ### Other
 
