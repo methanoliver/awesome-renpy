@@ -328,7 +328,7 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 
 ### Code examples
 
-Occasionally, entire games are published as open source. Whenever they contain anything useful as example code, they go in this section.
+Occasionally, entire games are published as open source, though not necessarily free. Whenever they contain anything useful as example code, they go in this section.
 
 + [Cute demon crashers](https://github.com/robotlolita/cute-demon-crashers) - interesting examples of functional programming, well commented, even if dated.
 + [Learn to Code RPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - a complete RenPy title, showcasing some of the more obscure features, with full source and assets.
@@ -336,6 +336,7 @@ Occasionally, entire games are published as open source. Whenever they contain a
 + [DW Klondike Solitaire](https://github.com/YGGDRASIL-STUDIO/DW-Klondike-Solitaire) - A complete Solitaire in RenPy, good as an example of using the Card Game Framework.
 + [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) - An entire game built around a custom messenger imitation.
 + [carpe-diem](https://github.com/moonlitworks/carpe-diem) - Complete source for [Carpe Diem](https://store.steampowered.com/app/423880/Carpe_Diem/)
++ [Without Romance](https://github.com/moonlitworks/without-romance) - A SuNoFES 2020 project.
 
 ### Other
 
@@ -353,6 +354,7 @@ These are meant to be built into the project at least during development, and th
 + [RVRE](https://github.com/picobyte/RVRE) - The editor provides a means to proofread your visual novel while running it and without leaving.
 + [Caption Tool](https://npckc.itch.io/caption-tool-for-renpy) - A tool to add image and sound captions for accessibility purposes.
 + [renpy-TranslationTools](https://github.com/Gouvernathor/renpy-TranslationTools) - Tools to aid in managing translations in certain corner cases. Also the rare example of embedding RenPy-script in Python, rather than the reverse as is usual.
++ [RenPy automatic translations](https://github.com/Moshibit/RenPy_automatic_translations) - A tool to automate machine translation of your project.
 
 ### Standalone developer tools
 
