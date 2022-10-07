@@ -90,7 +90,7 @@ That is, of course, no excuse not to read it, but if that was not helpful:
 
 ### Patreon articles
 
-These are articles from [PyTom's Patreon](https://patreon.renpy.org/), most of which which explain a certain feature in more detail than the manual does and provide example code.
+These are articles from [PyTom's Patreon](https://patreon.renpy.org/), most of which explain a certain feature in more detail than the manual does and provide example code.
 
 #### Internals
 
