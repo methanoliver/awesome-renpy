@@ -309,6 +309,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 + [Rock Paper Scissors](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361) - A RPS game meant as a tutorial how to program one.
 + [renpy-go](https://github.com/limniris1/renpy-go) - [Go](https://en.wikipedia.org/wiki/Go_(game)) in RenPy.
 + [Space Invaders](https://github.com/pass-by-reference/renpy-space-invaders)
++ [Renpy-lockpick-minigame](https://github.com/kaodachet/Renpy-lockpick-minigame)
 + [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
 
 ### Shaders
