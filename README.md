@@ -369,6 +369,7 @@ These are software unto themselves.
 + [renxel](https://github.com/KagariSoft/renxel) - Transmute RenPy translation files to Excel tables and back.
 + [Ren'Py VSCode Project Template](https://github.com/tiliv/renpy-vscode-template) - a configuration for Visual Studio Code to enable running, linting and building from the IDE.
 + [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php) - Not RenPy specific, this will be very helpful if you want to figure out `blend` transform property to get a particular visual effect.
++ [Node based script editor](https://github.com/FiendChain/ScriptEditor) - Kind of like Twine's dialogue tree view, but for RenPy.
 
 #### Continuous integration
 
@@ -415,6 +416,8 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [GameSounds](https://gamesounds.xyz/) - Large library of sounds aimed for games.
 + [FreePD](https://freepd.com/) - Music
 + [Altphotos](https://altphotos.com/) - CC0 stock photos ready to be mutated into artwork.
++ [Filmmusic](https://filmmusic.io/)
++ [Free Stock Music](https://www.free-stock-music.com/)
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
 
 #### Fonts
@@ -434,6 +437,7 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 + [Savfk](https://soundcloud.com/savfk)
 + [Silverman Sound Studios](https://soundcloud.com/silvermansound)
 + [MaxKoMusic](https://soundcloud.com/maxkomusic)
++ [Audionautix](https://audionautix.com/)
 
 ### Asset generators
 
