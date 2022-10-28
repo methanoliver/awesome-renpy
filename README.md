@@ -199,6 +199,7 @@ Pieces of code big enough to be called libraries.
 ### Gameplay elements
 
 + [Dating Sim Engine](https://github.com/renpy/dse) - The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.
++ [Dating sim toolkit](https://github.com/DRincs-Productions/DS-toolkit) - A different take on same.
 + [
 Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
 + [Lezinventory](https://www.lezcave.com/lezinventory-framework/) - General purpose inventory system.
@@ -299,6 +300,7 @@ These are useful, but difficult to categorize.
 + [Making a Separate Content Patch](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=45448#p463349) - How to make an optional content patch.
 + [Ren'Py Lovense Boilerplate](https://github.com/lolabray/Renpy-lovense-boilerplate) - Code examples for controlling Lovense vibrating devices from RenPy.
 + [Import Json Data Easier](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65400) - A class decorator you can use to easily populate data storing objects from a JSON file.
++ [RenPy Extension Demo](https://github.com/Ayowel/renpy-extension-demo) - Examples of using the scarcely documented engine extension mechanism.
 
 ### Minigames
 
