@@ -340,6 +340,7 @@ Occasionally, entire games are published as open source, though not necessarily 
 + [Mysterious Messenger](https://github.com/shawna-p/mysterious-messenger) - An entire game built around a custom messenger imitation.
 + [carpe-diem](https://github.com/moonlitworks/carpe-diem) - Complete source for [Carpe Diem](https://store.steampowered.com/app/423880/Carpe_Diem/)
 + [Without Romance](https://github.com/moonlitworks/without-romance) - A SuNoFES 2020 project.
++ [KatawaShoujo-RenPy8](https://github.com/gcammisa/KatawaShoujo-RenPy8) - A port of the classic Katawa Shoujo visual novel to run on modern versions of RenPy.
 
 ### Other
 
