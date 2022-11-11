@@ -387,6 +387,7 @@ These are software unto themselves.
 + [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) - Essentially a GUI for `unrpa`.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
 + [warpa](https://github.com/mensch272/warpa) - RPA archive manipulation tool written in Rust.
++ [arpy](https://github.com/chrsm/arpy) - Golang implementation of an RPA unpacker.
 
 #### Conversion
 
