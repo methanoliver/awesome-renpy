@@ -423,6 +423,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Filmmusic](https://filmmusic.io/)
 + [Free Stock Music](https://www.free-stock-music.com/)
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
++ [The Spriters Resource](https://www.spriters-resource.com/) - A massive library of sprites, including visual novel sprites, ripped from published titles. While not legal to use per se, invaluable when making a fan-game.
 
 #### Fonts
 
@@ -460,6 +461,7 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 + [VRoid Studio](https://store.steampowered.com/app/1486350/VRoid_Studio_v1130/) - Avatar generator meant for VTubers, can in a pinch be used to manufacture sprite images. Crossplatform, free as in beer. For posing them, you might want to use [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM_Posing_Desktop/), which is Windows-only and not free.
 + [Charat Rouge](https://charat.me/en/rouge/) / [Charat Blanc](https://charat.me/en/blanc/) - online character sprite generator, limited to portraits, license prohibits commercial use of the result.
 + [Stella Character Generator](https://visustella.itch.io/stella-character-generator) - paid, Windows only.
++ [Open Peeps](https://www.openpeeps.com/) - CC0 library of parts suitable for producing character art. Substantial assembly required.
 
 #### Other generators
 
