@@ -195,6 +195,7 @@ Pieces of code big enough to be called libraries.
 + [Kinetic Text Tags](https://github.com/SoDaRa/Kinetic-Text-Tags) - Text that shakes, waves, bounces, scatters, etc.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
 + [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
++ [renpy-rainbowtext](https://github.com/Lezalith/renpy-rainbowtext) - A rainbow text effect.
 
 ### Gameplay elements
 
@@ -359,6 +360,7 @@ These are meant to be built into the project at least during development, and th
 + [Caption Tool](https://npckc.itch.io/caption-tool-for-renpy) - A tool to add image and sound captions for accessibility purposes.
 + [renpy-TranslationTools](https://github.com/Gouvernathor/renpy-TranslationTools) - Tools to aid in managing translations in certain corner cases. Also the rare example of embedding RenPy-script in Python, rather than the reverse as is usual.
 + [RenPy automatic translations](https://github.com/Moshibit/RenPy_automatic_translations) - A tool to automate machine translation of your project.
++ [Demotools](https://github.com/Ayowel/renpy-demotools) - An extension that can be used to produce automated demos, screencasts, and otherwise pretend there's a player at the keyboard.
 
 ### Standalone developer tools
 
@@ -388,6 +390,7 @@ These are software unto themselves.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
 + [warpa](https://github.com/mensch272/warpa) - RPA archive manipulation tool written in Rust.
 + [arpy](https://github.com/chrsm/arpy) - Golang implementation of an RPA unpacker.
++ [RenPy-UnAPK](https://github.com/DrDRR/RenPy-UnAPK) - A tool to unpack and decompile an Android build's APK file. Sparsely documented, but there's not much to document.
 
 #### Conversion
 
