@@ -375,6 +375,7 @@ These are software unto themselves.
 + [Ren'Py VSCode Project Template](https://github.com/tiliv/renpy-vscode-template) - a configuration for Visual Studio Code to enable running, linting and building from the IDE.
 + [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php) - Not RenPy specific, this will be very helpful if you want to figure out `blend` transform property to get a particular visual effect.
 + [Node based script editor](https://github.com/FiendChain/ScriptEditor) - Kind of like Twine's dialogue tree view, but for RenPy.
++ [renpyfmt](https://github.com/kobaltcore/renpyfmt) - A formatter for RenPy code. Work in progress, but looks promising.
 
 #### Continuous integration
 
