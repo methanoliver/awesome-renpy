@@ -196,6 +196,7 @@ Pieces of code big enough to be called libraries.
 + [RPY-VNBE](https://github.com/rjscdev/RPY-VNBE) - A set of multiple libraries, including an achievement system and a number of text effects.
 + [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 + [renpy-rainbowtext](https://github.com/Lezalith/renpy-rainbowtext) - A rainbow text effect.
++ [renpy-word-description](https://github.com/valery-iwanofu/renpy-word-description) -- Text tooltips on hover over words.
 
 ### Gameplay elements
 
