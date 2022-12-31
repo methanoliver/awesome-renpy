@@ -170,6 +170,7 @@ Templates to start off a new project containing commonly requested features a st
 + [All-in-one GUI Template](https://tofurocks.itch.io/renpy-gui-template)
 + [renpy-awesome-template](https://github.com/RuolinZheng08/renpy-awesome-template) - An advanced starter project template.
 + [renpy-minimal-template](https://github.com/enaielei/renpy-minimal-template) - Actually the complete reverse: A minimal working template, which contains none of the default GUI. Also contains the example of using the scarcely documented explicitly loadable modules feature.
++ [Easy Ren'Py GUI](https://github.com/shawna-p/EasyRenPyGui) - A template project intended to make it easier to deeply alter the default game UI.
 
 ## Frameworks
 
@@ -217,6 +218,7 @@ Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR
 + [Messenger Emulator](https://github.com/sDextra/messenger-emulator) - An advanced library for imitating Telegram Messenger in-game. Requires work to adapt to more modern versions of RenPy.
 + [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
 + [RenpyPhoneSMS](https://github.com/israelrbb/RenpyPhoneSMS) - And another one.
++ [Elckarow/Phone](https://github.com/Elckarow/Phone) - Imitating a phone is a very common task.
 
 ### Extra content
 
@@ -377,6 +379,7 @@ These are software unto themselves.
 + [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php) - Not RenPy specific, this will be very helpful if you want to figure out `blend` transform property to get a particular visual effect.
 + [Node based script editor](https://github.com/FiendChain/ScriptEditor) - Kind of like Twine's dialogue tree view, but for RenPy.
 + [renpyfmt](https://github.com/kobaltcore/renpyfmt) - A formatter for RenPy code. Work in progress, but looks promising.
++ [RenPy Maker](https://renpymaker.com/) - One more attempt to produce a visual script editor.
 
 #### Continuous integration
 
