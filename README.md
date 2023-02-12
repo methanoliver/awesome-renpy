@@ -181,6 +181,7 @@ Pieces of code big enough to be called libraries.
 + [Console](https://github.com/abduelhamit/renpy-ingame-console/) - An in-game console for the player to use (i.e. distinct from the built-in developer console). Not well documented at all.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
 + [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
++ [Renpygame](https://github.com/DRincs-Productions/Renpygame) -- An attempt to resurrect the library that simplified porting [Pygame](https://www.pygame.org/news) code to RenPy.
 
 ### Network
 
