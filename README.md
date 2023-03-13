@@ -55,6 +55,7 @@ Who am I kidding, this will languish in obscurity like every other attempt to pr
     + [Graphics](#graphics)
     + [Sound](#sound)
     + [Video](#video)
++ [Curios](#curios)
 + [Support](#support)
 
 ## Documentation
@@ -182,6 +183,7 @@ Pieces of code big enough to be called libraries.
 + [DynamicSpriteManager](https://github.com/alexkrob/dynamicsprites/) - A high-level system for easily defining and compiling the RenPy native LayeredImage. Given a directory of images, it will automatically scan and categorize those images for use in a mix-and-match style sprite declaration language based on filenames. Documentation inline with code.
 + [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
 + [Renpygame](https://github.com/DRincs-Productions/Renpygame) -- An attempt to resurrect the library that simplified porting [Pygame](https://www.pygame.org/news) code to RenPy.
++ [Puppitor](https://github.com/njunius/Puppitor) - A complicated sprite animation library.
 
 ### Network
 
@@ -204,8 +206,7 @@ Pieces of code big enough to be called libraries.
 
 + [Dating Sim Engine](https://github.com/renpy/dse) - The fundamental code for a Tokimeki Memorial style dating simulation strategy planning game.
 + [Dating sim toolkit](https://github.com/DRincs-Productions/DS-toolkit) - A different take on same.
-+ [
-Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
++ [Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR-toolkit) - A complete system introducing the concepts of location, time and event, producing the framework of a not-quite-point-and-click adventure game.
 + [Lezinventory](https://www.lezcave.com/lezinventory-framework/) - General purpose inventory system.
 + [Pink Engine](https://pink-productions.itch.io/pink-engine) - Tiled map framework capable of using [Tiled](https://www.mapeditor.org/) maps.
 + [RPG Battle Engine](https://github.com/Habitacle/battle-engine) - What it says on the tin.
@@ -220,6 +221,7 @@ Navigation Quest Time Routine System](https://github.com/DRincs-Productions/NQTR
 + [phone message system for renpy](https://nadianova.itch.io/phone-message-system-for-renpy) - Another implementation of a phone, this one works as is.
 + [RenpyPhoneSMS](https://github.com/israelrbb/RenpyPhoneSMS) - And another one.
 + [Elckarow/Phone](https://github.com/Elckarow/Phone) - Imitating a phone is a very common task.
++ [albireo-games/renpy_phone](https://github.com/albireo-games/renpy_phone) - It is a wheel people keep reinventing.
 
 ### Extra content
 
@@ -284,6 +286,7 @@ Not all of these are confirmed to work in current versions of RenPy.
 + [One-screen visual novel](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=37055#p402373) - that is, how to disable the entire game menu and jump straight into the body of the novel.
 + [Main Menu with a Video Background](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47193#p472755) - This gets asked on average once a week.
 + [Button "PRESSED" state](https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=57848&sid=95776df5d873ef265bcf05244d317495) - How to detect that an on-screen button is being held down, rather than just clicked.
++ [Conditional main menu background](https://github.com/jbondguy007/Renpy-tutorial-conditional-main-menu-background) - An extensive tutorial on how to change a main menu background based on game state.
 
 #### Other snippets
 
@@ -313,10 +316,12 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 
 + [Simon Says](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=40295#p428028)
 + [Rhythm game](https://github.com/RuolinZheng08/renpy-rhythm) - Dance Dance Revolution style, well documented.
++ [RhythmBeats](https://github.com/CharlieFuu69/RenPy_RhythmBeats) - A different take on rhythm game framework, documentation in Spanish.
 + [Rock Paper Scissors](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=50068#p486361) - A RPS game meant as a tutorial how to program one.
 + [renpy-go](https://github.com/limniris1/renpy-go) - [Go](https://en.wikipedia.org/wiki/Go_(game)) in RenPy.
 + [Space Invaders](https://github.com/pass-by-reference/renpy-space-invaders)
 + [Renpy-lockpick-minigame](https://github.com/kaodachet/Renpy-lockpick-minigame)
++ [RenPyDraw](https://github.com/NyashniyVladya/RenPyDraw) - In-game graphics editing.
 + [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
 
 ### Shaders
@@ -381,6 +386,8 @@ These are software unto themselves.
 + [Node based script editor](https://github.com/FiendChain/ScriptEditor) - Kind of like Twine's dialogue tree view, but for RenPy.
 + [renpyfmt](https://github.com/kobaltcore/renpyfmt) - A formatter for RenPy code. Work in progress, but looks promising.
 + [RenPy Maker](https://renpymaker.com/) - One more attempt to produce a visual script editor.
++ [Ren'py => Python Generator](https://github.com/RetroIndieJosh/renpy-python-generator) - An utility to convert pure Python files to Python-In-RenPy syntax, allowing for easier editing.
++ [Renpy Parser](https://github.com/gameboxthing/renpy_parser) - Parses a lightweight text file markup format into RenPy script.
 
 #### Continuous integration
 
@@ -518,6 +525,12 @@ Most of these are only useful to produce background images, as getting the detai
 #### Video
 
 + [FFMpeg](https://ffmpeg.org/) - the Swiss army knife of video *and audio* format conversion and filtering. If you need a GUI for it, there's [QWinFF](https://qwinff.github.io/), [Axiom](https://github.com/MattMcManis/Axiom), [Videomass](https://github.com/jeanslack/Videomass), to name but a few.
+
+## Curios
+
+Things that are awesome but not really very useful go here.
+
++ [RenAI-Chat](https://github.com/Rubiksman78/RenAI-Chat) - A RenPy-based chatbot interface.
 
 ## Support
 
