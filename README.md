@@ -410,6 +410,7 @@ These are software unto themselves.
 + [Twine to Ren'Py tool](https://ludowoods.itch.io/twine-to-renpy-tool) - A tool to port a [Twine](https://twinery.org/) project to RenPy. Cross-platform, requires Python 2.7 on platforms other than Windows.
 + [articy2renpy](https://github.com/TheSchnappi/articy2renpy) - A converter for [articy:draft](https://www.articy.com/en/) JSON exports to Ren'Py *.rpy script files.
 + [articy3_renpy3](https://github.com/SqFKYo/articy3_renpy3) - Another variation on articy to RenPy converter.
++ [FDtoRenpy](https://github.com/RunawayHaggis/FDtoRenpy) - Convert a FinalDraft script to RenPy.
 
 ### End-user tools
 
