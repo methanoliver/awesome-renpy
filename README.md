@@ -338,6 +338,7 @@ Shaders are the most arcane part of RenPy, because they require branching into [
 + [Shader](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=65248) - Several animated image-generating shaders ported from Shadertoy.
 + [Circle crop](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64534) - A shader way to make a square image circular.
 + [Drunk blur](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=62705) - Double vision "drunk" blur.
++ [Replacement blur](https://github.com/renpy/renpy/issues/4442#issuecomment-1470990844) - An alternative implementation of blur that overrides the stock blur.
 
 ### Code examples
 
@@ -394,6 +395,7 @@ These are software unto themselves.
 + [renkit](https://github.com/kobaltcore/renkit) - A toolkit for managing Ren'Py instances via the command line, intended for build automation and continuous integration.
 + [renpy-lint-action](https://github.com/ProjectAliceDev/renpy-lint-action) - This GitHub action allows you to run the linter on a Ren'Py visual novel project in a workflow for testing purposes.
 + [renpy-build-action](https://github.com/ProjectAliceDev/renpy-build-action) - This GitHub action allows you to make distributable builds of a Ren'Py visual novel project in a workflow and use the built files for distribution.
++ [renpy2flatpak](https://github.com/dcbaker/renpy2flatpak) - A tool to automate packaging a Linux release of your project into Flatpak format for distribution.
 
 #### Unpacking and decompilation
 
