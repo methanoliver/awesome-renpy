@@ -188,6 +188,7 @@ Pieces of code big enough to be called libraries.
 ### Network
 
 + [RADC](https://github.com/CharlieFuu69/RenPy_Asset_Download_Complement) - A framework to enable a RenPy project to download its own DLC. Documentation in Spanish only.
++ [RDAA](https://github.com/Xrisofor/RDAA) - A fork of RADC with English and Russian documentation and extra features.
 + [Discord Rich Presence Support for Ren'Py Projects](https://github.com/Lezalith/RenPy_Discord_Presence) - Interact with Discord Rich Presence.
 + [Auto Weather Change](https://github.com/multimokia/Renpy-Weather-Utils) - Access [openweathermap](https://openweathermap.org/) API to acquire weather information from RenPy.
 
@@ -389,6 +390,8 @@ These are software unto themselves.
 + [RenPy Maker](https://renpymaker.com/) - One more attempt to produce a visual script editor.
 + [Ren'py => Python Generator](https://github.com/RetroIndieJosh/renpy-python-generator) - An utility to convert pure Python files to Python-In-RenPy syntax, allowing for easier editing.
 + [Renpy Parser](https://github.com/gameboxthing/renpy_parser) - Parses a lightweight text file markup format into RenPy script.
++ [renpyDialogToAudio](https://github.com/lugia19/renpyDialogToAudio) - Automatically generates voice for your project based on text originals using [elevenlabs](https://beta.elevenlabs.io/) TTS.
++ [renpy-counter](https://github.com/b1f6c1c4/renpy-counter) -- Estimates the play-length for your project based on average reading speed. Requires node.js.
 
 #### Continuous integration
 
