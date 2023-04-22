@@ -184,6 +184,7 @@ Pieces of code big enough to be called libraries.
 + [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
 + [Renpygame](https://github.com/DRincs-Productions/Renpygame) -- An attempt to resurrect the library that simplified porting [Pygame](https://www.pygame.org/news) code to RenPy.
 + [Puppitor](https://github.com/njunius/Puppitor) - A complicated sprite animation library.
++ [renpy-color-picker](https://github.com/shawna-p/renpy-color-picker) - What it says on the tin.
 
 ### Network
 
