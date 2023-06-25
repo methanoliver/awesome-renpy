@@ -163,6 +163,7 @@ Code examples implementing a particular feature.
 + [Title Screens](https://patreon.renpy.org/title-screens.html)
 + [In-Game Wiki-Like Glossary or Codex](https://patreon.renpy.org/wiki.html)
 + [Custom Preferences](https://patreon.renpy.org/custom-preferences.html) - Adding more things to the Preferences screen and using them.
++ [MonikA.I](https://github.com/Rubiksman78/MonikA.I) - AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.
 
 ## Project templates
 
@@ -196,6 +197,7 @@ Pieces of code big enough to be called libraries.
 ### Visual novel elements
 
 + [Renpy Auto Highlight](https://wattson.itch.io/renpy-auto-highlight) - A library to automatically highlight the currently speaking character.
++ [Autofocus](https://github.com/Elckarow/Autofocus) - A different technology to do the same.
 + [Speech Bubbles](https://github.com/RenpyRemix/speech-bubbles) - A unique look presenting novel text as speech bubbles.
 + [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
 + [Kinetic Text Tags](https://github.com/SoDaRa/Kinetic-Text-Tags) - Text that shakes, waves, bounces, scatters, etc.
@@ -324,6 +326,7 @@ Self-contained minigames can occasionally be found. Some assembly is usually req
 + [Space Invaders](https://github.com/pass-by-reference/renpy-space-invaders)
 + [Renpy-lockpick-minigame](https://github.com/kaodachet/Renpy-lockpick-minigame)
 + [RenPyDraw](https://github.com/NyashniyVladya/RenPyDraw) - In-game graphics editing.
++ [Renpy_Shooter](https://github.com/ShadowXJaw724/Renpy_Shooter) - A shooting minigame.
 + [47 minigames](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=47820#p475772) - A forum post collecting links to minigame implementations on Lemmasoft forums, 47 as of last count. How many still work as written remains unknown.
 
 ### Shaders
@@ -373,6 +376,7 @@ These are meant to be built into the project at least during development, and th
 + [renpy-TranslationTools](https://github.com/Gouvernathor/renpy-TranslationTools) - Tools to aid in managing translations in certain corner cases. Also the rare example of embedding RenPy-script in Python, rather than the reverse as is usual.
 + [RenPy automatic translations](https://github.com/Moshibit/RenPy_automatic_translations) - A tool to automate machine translation of your project.
 + [Demotools](https://github.com/Ayowel/renpy-demotools) - An extension that can be used to produce automated demos, screencasts, and otherwise pretend there's a player at the keyboard.
++ [Expreviewer](https://github.com/Elckarow/Expreviewer) - A preview tool for layeredimage sprites.
 
 ### Standalone developer tools
 
@@ -380,6 +384,7 @@ These are software unto themselves.
 
 #### General
 
++ [Ren'Py Language for Visual Studio Code](https://github.com/LuqueDaniel/vscode-language-renpy) - Currently *the* way to edit RenPy code.
 + [renpy-graphviz](https://github.com/EwenQuim/renpy-graphviz) - Draws a flowchart of a RenPy project based on jumps, calls and labels. Has an online version.
 + [renpydeskgen](https://github.com/Polymehr/renpydeskgen) - Shell script to generate Linux `*.desktop` files for RenPy games.
 + [vnproofer](https://github.com/devorbitus/vnproofer) - Project proofreading and spellchecking tool that works by passing scripts through [cspell](https://www.npmjs.com/package/cspell).
