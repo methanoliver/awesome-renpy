@@ -410,7 +410,7 @@ These are software unto themselves.
 
 + [unrpyc](https://github.com/CensoredUsername/unrpyc) - The `*.rpyc` file decompiler.
 + [unrpa](https://github.com/Lattyware/unrpa) - The most famous RPA archive extractor.
-+ [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) - Essentially a GUI for `unrpa`.
++ [RPA Explorer](https://github.com/UniverseDevel/RPA-Explorer) - Graphical explorer for RenPy Archives built around a C# library to manipulate them. Can also invoke `unrpyc` on the contents.
 + [rpatool](https://github.com/Shizmob/rpatool) - The less famous RPA archive extractor.
 + [warpa](https://github.com/mensch272/warpa) - RPA archive manipulation tool written in Rust.
 + [arpy](https://github.com/chrsm/arpy) - Golang implementation of an RPA unpacker.
