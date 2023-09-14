@@ -163,7 +163,7 @@ Code examples implementing a particular feature.
 + [Title Screens](https://patreon.renpy.org/title-screens.html)
 + [In-Game Wiki-Like Glossary or Codex](https://patreon.renpy.org/wiki.html)
 + [Custom Preferences](https://patreon.renpy.org/custom-preferences.html) - Adding more things to the Preferences screen and using them.
-+ [MonikA.I](https://github.com/Rubiksman78/MonikA.I) - AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.
++ [Odometer](https://patreon.renpy.org/dev-2023-05.html#odometer) - An antique style odometer displayable.
 
 ## Project templates
 
@@ -197,6 +197,7 @@ Pieces of code big enough to be called libraries.
 ### Visual novel elements
 
 + [Renpy Auto Highlight](https://wattson.itch.io/renpy-auto-highlight) - A library to automatically highlight the currently speaking character.
++ [RenPy Lipsync Plugin](https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin) - A plugin that stitches the [Rhubarb automated lip sync engine](https://github.com/DanielSWolf/rhubarb-lip-sync) into RenPy.
 + [Autofocus](https://github.com/Elckarow/Autofocus) - A different technology to do the same.
 + [Speech Bubbles](https://github.com/RenpyRemix/speech-bubbles) - A unique look presenting novel text as speech bubbles.
 + [FancyText](https://github.com/yukinogatari/Ren-Py-FancyText) - Text that can fade in letter-by-letter, and appear in other interesting ways.
@@ -357,6 +358,7 @@ Occasionally, entire games are published as open source, though not necessarily 
 + [carpe-diem](https://github.com/moonlitworks/carpe-diem) - Complete source for [Carpe Diem](https://store.steampowered.com/app/423880/Carpe_Diem/)
 + [Without Romance](https://github.com/moonlitworks/without-romance) - A SuNoFES 2020 project.
 + [KatawaShoujo-RenPy8](https://github.com/gcammisa/KatawaShoujo-RenPy8) - A port of the classic Katawa Shoujo visual novel to run on modern versions of RenPy.
++ [MonikA.I](https://github.com/Rubiksman78/MonikA.I) - AI-based features for a mod for Doki Doki Literature Club, this is an advanced example of integrating RenPy with a chatbot.
 
 ### Other
 
@@ -377,6 +379,7 @@ These are meant to be built into the project at least during development, and th
 + [RenPy automatic translations](https://github.com/Moshibit/RenPy_automatic_translations) - A tool to automate machine translation of your project.
 + [Demotools](https://github.com/Ayowel/renpy-demotools) - An extension that can be used to produce automated demos, screencasts, and otherwise pretend there's a player at the keyboard.
 + [Expreviewer](https://github.com/Elckarow/Expreviewer) - A preview tool for layeredimage sprites.
++ [Image Tint Tool](https://feniksdev.itch.io/image-tint-tool) - An image tint preview tool.
 
 ### Standalone developer tools
 
