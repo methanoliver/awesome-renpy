@@ -483,6 +483,7 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 + [FxTone](https://raylibtech.itch.io/rfxgen) - online generator.
 + [LabChirp](https://labbed.itch.io/labchirp)
 + [SteosVoice](https://cybervoice.io/en/) - High quality AI-based speech synthesis useful for generating voice for visual novels.
++ [ElevenLabs](https://elevenlabs.io/app/sound-effects) - Online sound effect generator.
 
 #### Character sprite generators
 
@@ -565,3 +566,4 @@ Those should be of particular interest for RenPy users:
 + [awesome-python](https://github.com/vinta/awesome-python)
 + [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
 + [magictools](https://github.com/ellisonleao/magictool)
++ [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
