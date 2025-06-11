@@ -486,8 +486,8 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 + [ElevenLabs](https://elevenlabs.io/app/sound-effects) - Online sound effect generator.
 
 #### Character sprite generators
-+ [Online character creator](https://charactercreator.org) - online, probably all you need.
-+ [Sutemo's Character Creator](https://emily2.itch.io/sutemo) - online only.
++ [Online character creator](https://charactercreator.org) - online.
++ [Sutemo's Character Creator](https://yuripourre.itch.io/character-creator-sutemo) - online only
 + [Mannequin](https://ar14.itch.io/mannequin) - free and paid versions, multiplatform.
 + [Manga Maker ComiPo](https://store.steampowered.com/app/262490/Manga_Maker_Comipo/) - has been used to produce sprites for at least one novel available on Steam. Windows only.
 + [VRoid Studio](https://store.steampowered.com/app/1486350/VRoid_Studio_v1130/) - Avatar generator meant for VTubers, can in a pinch be used to manufacture sprite images. Crossplatform, free as in beer. For posing them, you might want to use [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM_Posing_Desktop/), which is Windows-only and not free.
