@@ -486,7 +486,7 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 + [ElevenLabs](https://elevenlabs.io/app/sound-effects) - Online sound effect generator.
 
 #### Character sprite generators
-
++ [Online character creator](https://charactercreator.org) - online.
 + [Sutemo's Character Creator](https://yuripourre.itch.io/character-creator-sutemo) - online only
 + [Mannequin](https://ar14.itch.io/mannequin) - free and paid versions, multiplatform.
 + [Manga Maker ComiPo](https://store.steampowered.com/app/262490/Manga_Maker_Comipo/) - has been used to produce sprites for at least one novel available on Steam. Windows only.
