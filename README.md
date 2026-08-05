@@ -206,6 +206,7 @@ Pieces of code big enough to be called libraries.
 + [Encyclopaedia Framework](https://github.com/jsfehler/renpy-encyclopaedia) - Simplifies creating an encyclopaedia, bestiary, glossary, or similar system.
 + [renpy-rainbowtext](https://github.com/Lezalith/renpy-rainbowtext) - A rainbow text effect.
 + [renpy-word-description](https://github.com/valery-iwanofu/renpy-word-description) -- Text tooltips on hover over words.
++ [VN Sprite Kit](https://github.com/pixelpixi/spritewright/tree/main/renpy-vn-sprite-kit) - Declares a character's entire sprite set from the filenames in a folder, so adding an expression or an outfit needs no new `image` statement, and pre-rendered combinations get short names like `show rin uniform blush`. Includes the bottom-aligned framing transforms most projects end up rewriting.
 
 ### Gameplay elements
 
@@ -468,6 +469,7 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 
 + [Incompetech](https://incompetech.com/music/royalty-free/music.html) - Kevin MacLeod's music. *Everyone* has heard it.
 + [caryoscelus](https://caryoscelus.bandcamp.com/)
++ [SpriteWright](https://violetpixel13.itch.io/rin-vn-sprite-sampler) - Free anime-style character sprites for visual novels: seven expressions and three outfits per character as 832x1248 straight-alpha PNGs, royalty-free for commercial and non-commercial use. AI-generated, and tagged as such on the store page.
 + [PeriTune](https://peritune.com/)
 + [Alexander Zhelanov](https://soundcloud.com/alexandr-zhelanov)
 + [Savfk](https://soundcloud.com/savfk)
