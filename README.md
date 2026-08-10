@@ -434,6 +434,7 @@ These tools are made for end-users, rather than developers.
 + [Translator3000](https://github.com/NyashniyVladya/Translator3000) - Runs RenPy games through automated translation. Trial version.
 + [rpycg](https://github.com/lure0xaos/rpycg) - Injects RenPy code into published games to enable developer mode and manually poke at the internals. Windows only.
 + [renpy2linux](https://github.com/Shizmob/renpy2linux) - A script to convert Ren'Py releases to Windows, OSX and Linux-compatible ones, when the only thing you have is one of the three. Requires Linux or OSX to work.
++ [Summertime Saga Save Compatibility Tool](https://github.com/SummersagaHub/save-compatibility-tool) - Community-maintained compatibility reference and interactive checker for supported Summertime Saga save versions, including structured JSON datasets and troubleshooting documentation.
 
 ## Assets
 
