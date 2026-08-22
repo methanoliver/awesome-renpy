@@ -451,6 +451,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [SoundBible](https://soundbible.com/) - A collection of sound effects.
 + [Soundimage](https://soundimage.org/) - Specially aimed at game developers.
 + [GameSounds](https://gamesounds.xyz/) - Large library of sounds aimed for games.
++ [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Original 12-sound WAV UI pack for menus and HUDs. Free, commercial use allowed.
 + [FreePD](https://freepd.com/) - Music
 + [Altphotos](https://altphotos.com/) - CC0 stock photos ready to be mutated into artwork.
 + [Filmmusic](https://filmmusic.io/)
