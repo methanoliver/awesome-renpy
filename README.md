@@ -269,6 +269,7 @@ Not all of these are confirmed to work in current versions of RenPy.
 + [How to do a cloud animation with RenPy](https://traumendes-madchen.com/blog/?p=1395) - A primer on animated backgrounds.
 + [Noir-Style Shadow/Lighting Effects](https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=49140#p483366) - fun with AlphaMask.
 + [Gradient()](https://gist.github.com/methanoliver/f265cd68bf13ac1008d7140d07b2e023) - A Gradient() equivalent of Solid() that generates gradients in place using shaders.
++ [Breakup](https://github.com/Jaybe-Games/Breakup-for-Renpy) - RenPy Implementation of Takashi Toyama's breakup.dll NScripter plugin which is closely based on the implementation in onscripter-ru
 
 #### Particles
 
