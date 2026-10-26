@@ -454,6 +454,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [GameSounds](https://gamesounds.xyz/) - Large library of sounds aimed for games.
 + [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Original 12-sound WAV UI pack for menus and HUDs. Free, commercial use allowed.
 + [SFXMint](https://sfxmint.com/) - CC0 sound effects (UI, ambience, footsteps, doors, horror and more), AI-generated or procedurally synthesized. Individual WAV/MP3 downloads need no signup.
++ [Cozy UI SFX Free Lite](https://yetiancai.itch.io/cozy-ui-sfx-free-lite) - 33 soft UI sounds (clicks, pops, confirms) for menus and dialogue screens, synthesized by code. Free, commercial use allowed, credit not required.
 + [FreePD](https://freepd.com/) - Music
 + [Altphotos](https://altphotos.com/) - CC0 stock photos ready to be mutated into artwork.
 + [Filmmusic](https://filmmusic.io/)
