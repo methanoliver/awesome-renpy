@@ -455,6 +455,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - Original 12-sound WAV UI pack for menus and HUDs. Free, commercial use allowed.
 + [SFXMint](https://sfxmint.com/) - CC0 sound effects (UI, ambience, footsteps, doors, horror and more), AI-generated or procedurally synthesized. Individual WAV/MP3 downloads need no signup.
 + [DailySounds](https://dailysounds.org/?ref=awesomerenpy) - Free sound effects (UI clicks, doors, footsteps, ambience, horror hits) as MP3, WAV or OGG; commercial use allowed, credit optional, no sign-up.
++ [Cozy UI SFX Free Lite](https://yetiancai.itch.io/cozy-ui-sfx-free-lite) - 33 soft UI sounds (clicks, pops, confirms) for menus and dialogue screens, synthesized by code. Free, commercial use allowed, credit not required.
 + [FreePD](https://freepd.com/) - Music
 + [Altphotos](https://altphotos.com/) - CC0 stock photos ready to be mutated into artwork.
 + [Filmmusic](https://filmmusic.io/)
@@ -573,4 +574,5 @@ Those should be of particular interest for RenPy users:
 + [awesome-python](https://github.com/vinta/awesome-python)
 + [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
 + [magictools](https://github.com/ellisonleao/magictool)
++ [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 + [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
