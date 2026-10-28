@@ -572,4 +572,5 @@ Those should be of particular interest for RenPy users:
 + [awesome-python](https://github.com/vinta/awesome-python)
 + [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl)
 + [magictools](https://github.com/ellisonleao/magictool)
++ [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 + [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
