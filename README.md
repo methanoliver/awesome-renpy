@@ -491,6 +491,7 @@ While you can search through places like [DeviantArt](https://deviantart.com), [
 + [FxTone](https://raylibtech.itch.io/rfxgen) - online generator.
 + [LabChirp](https://labbed.itch.io/labchirp)
 + [SteosVoice](https://cybervoice.io/en/) - High quality AI-based speech synthesis useful for generating voice for visual novels.
++ [SuperClonica](https://superclonica.com/en/guides/visual-novel-ai-voice) - AI voice acting for visual novels: a free offline TTS engine (Apache-2.0, 31 languages, runs on a CPU) with a Ren'Py walkthrough; ready character voices are paid.
 + [ElevenLabs](https://elevenlabs.io/app/sound-effects) - Online sound effect generator.
 
 #### Character sprite generators
