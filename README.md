@@ -403,6 +403,7 @@ These are software unto themselves.
 + [Renpy Parser](https://github.com/gameboxthing/renpy_parser) - Parses a lightweight text file markup format into RenPy script.
 + [renpyDialogToAudio](https://github.com/lugia19/renpyDialogToAudio) - Automatically generates voice for your project based on text originals using [elevenlabs](https://beta.elevenlabs.io/) TTS.
 + [renpy-counter](https://github.com/b1f6c1c4/renpy-counter) -- Estimates the play-length for your project based on average reading speed. Requires node.js.
++ [Senpy](https://github.com/Xilleet/senpy) - A blazingly fast semantic linter, control-flow analyzer, and Language Server (LSP) for Ren'Py and VS Code.
 
 #### Continuous integration
 
