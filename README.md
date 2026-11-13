@@ -456,6 +456,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [SFXMint](https://sfxmint.com/) - CC0 sound effects (UI, ambience, footsteps, doors, horror and more), AI-generated or procedurally synthesized. Individual WAV/MP3 downloads need no signup.
 + [DailySounds](https://dailysounds.org/?ref=awesomerenpy) - Free sound effects (UI clicks, doors, footsteps, ambience, horror hits) as MP3, WAV or OGG; commercial use allowed, credit optional, no sign-up.
 + [Cozy UI SFX Free Lite](https://yetiancai.itch.io/cozy-ui-sfx-free-lite) - 33 soft UI sounds (clicks, pops, confirms) for menus and dialogue screens, synthesized by code. Free, commercial use allowed, credit not required.
++ [Blip 00: Free Dialogue Voices Sampler](https://csaf.itch.io/blip-00-free-dialogue-voices-sampler) - 32 dialogue blip sounds for text that types out (16 speakers, a tick and a question each) in WAV and OGG. Synthesized in code by tooling written with AI. Free, commercial use allowed, credit not required.
 + [FreePD](https://freepd.com/) - Music
 + [Altphotos](https://altphotos.com/) - CC0 stock photos ready to be mutated into artwork.
 + [Filmmusic](https://filmmusic.io/)
