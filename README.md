@@ -462,6 +462,7 @@ No visual novel is complete without artwork and sound. Beware and carefully obse
 + [Free Stock Music](https://www.free-stock-music.com/)
 + [Shadertoy](https://www.shadertoy.com/) - Lots of publicly available GLSL shader code. Adapting it to RenPy remains on you, however.
 + [The Spriters Resource](https://www.spriters-resource.com/) - A massive library of sprites, including visual novel sprites, ripped from published titles. While not legal to use per se, invaluable when making a fan-game.
++ [Gridwright](https://gridwright.dev/) - Pixel-art asset packs that include a Ren'Py GUI kit, visual novel backgrounds and character sprites with expressions, plus browser tools for sprites and palettes. Paid, with free demos.
 
 #### Fonts
 
