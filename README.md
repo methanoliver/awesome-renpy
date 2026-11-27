@@ -185,6 +185,7 @@ Pieces of code big enough to be called libraries.
 + [Extra Animated Value](https://github.com/RenpyRemix/extra-animated-value) - Extending `AnimatedValue` for bars.
 + [Renpygame](https://github.com/DRincs-Productions/Renpygame) -- An attempt to resurrect the library that simplified porting [Pygame](https://www.pygame.org/news) code to RenPy.
 + [Puppitor](https://github.com/njunius/Puppitor) - A complicated sprite animation library.
++ [SpriteStudio Player for Ren'Py](https://github.com/cri-middleware/SSPlayerForRenPy) - Plays animations made in [SpriteStudio](https://www.webtech.co.jp/eng/spritestudio/), a 2D animation tool in which an artist adds bones, mesh deformation and effects to their own illustrations. An animation is shown with `show` like any other image, and `SSCharacter` flaps a sprite's lips while its line is on screen.
 + [renpy-color-picker](https://github.com/shawna-p/renpy-color-picker) - What it says on the tin.
 
 ### Network
